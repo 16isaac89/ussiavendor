@@ -1,0 +1,886 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Developer\MobileApps\USSIA\vendor\android\app\src\main\AndroidManifest.xml:1:1-30:12
+INJECTED from D:\Developer\MobileApps\USSIA\vendor\android\app\src\main\AndroidManifest.xml:1:1-30:12
+INJECTED from D:\Developer\MobileApps\USSIA\vendor\android\app\src\main\AndroidManifest.xml:1:1-30:12
+INJECTED from D:\Developer\MobileApps\USSIA\vendor\android\app\src\main\AndroidManifest.xml:1:1-30:12
+MERGED from D:\Developer\MobileApps\USSIA\vendor\android\app\src\main\AndroidManifest.xml:1:1-30:12
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.125.0] C:\Users\kisaa\.gradle\caches\transforms-3\cb2092d1d449d58f0444a2b23138ab01\transformed\jetified-flipper-network-plugin-0.125.0\AndroidManifest.xml:8:1-15:12
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.125.0] C:\Users\kisaa\.gradle\caches\transforms-3\6e569153b888185c45a073b3e3fdffbf\transformed\jetified-flipper-fresco-plugin-0.125.0\AndroidManifest.xml:8:1-15:12
+MERGED from [com.facebook.flipper:flipper:0.125.0] C:\Users\kisaa\.gradle\caches\transforms-3\4969da6f46f6dd6f1e85846c6edf401c\transformed\jetified-flipper-0.125.0\AndroidManifest.xml:8:1-18:12
+MERGED from [:react-native-vector-icons] D:\Developer\MobileApps\USSIA\vendor\node_modules\react-native-vector-icons\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-async-storage_async-storage] D:\Developer\MobileApps\USSIA\vendor\node_modules\@react-native-async-storage\async-storage\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-community_blur] D:\Developer\MobileApps\USSIA\vendor\node_modules\@react-native-community\blur\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-community_checkbox] D:\Developer\MobileApps\USSIA\vendor\node_modules\@react-native-community\checkbox\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-community_clipboard] D:\Developer\MobileApps\USSIA\vendor\node_modules\@react-native-community\clipboard\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-community_datetimepicker] D:\Developer\MobileApps\USSIA\vendor\node_modules\@react-native-community\datetimepicker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-firebase_database] D:\Developer\MobileApps\USSIA\vendor\node_modules\@react-native-firebase\database\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-13:12
+MERGED from [:react-native-firebase_messaging] D:\Developer\MobileApps\USSIA\vendor\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-45:12
+MERGED from [:react-native-firebase_app] D:\Developer\MobileApps\USSIA\vendor\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-32:12
+MERGED from [:react-native-picker_picker] D:\Developer\MobileApps\USSIA\vendor\node_modules\@react-native-picker\picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-drop-shadow] D:\Developer\MobileApps\USSIA\vendor\node_modules\react-native-drop-shadow\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-gesture-handler] D:\Developer\MobileApps\USSIA\vendor\node_modules\react-native-gesture-handler\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-image-crop-picker] D:\Developer\MobileApps\USSIA\vendor\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-33:12
+MERGED from [:react-native-image-picker] D:\Developer\MobileApps\USSIA\vendor\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-21:12
+MERGED from [:react-native-linear-gradient] D:\Developer\MobileApps\USSIA\vendor\node_modules\react-native-linear-gradient\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-pager-view] D:\Developer\MobileApps\USSIA\vendor\node_modules\react-native-pager-view\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-reanimated] D:\Developer\MobileApps\USSIA\vendor\node_modules\react-native-reanimated\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-safe-area-context] D:\Developer\MobileApps\USSIA\vendor\node_modules\react-native-safe-area-context\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-screens] D:\Developer\MobileApps\USSIA\vendor\node_modules\react-native-screens\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-snackbar] D:\Developer\MobileApps\USSIA\vendor\node_modules\react-native-snackbar\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-svg] D:\Developer\MobileApps\USSIA\vendor\node_modules\react-native-svg\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-video] D:\Developer\MobileApps\USSIA\vendor\node_modules\react-native-video\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-webview] D:\Developer\MobileApps\USSIA\vendor\node_modules\react-native-webview\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-21:12
+MERGED from [com.facebook.react:react-android:0.71.8] C:\Users\kisaa\.gradle\caches\transforms-3\fe929e9d7040099dd94c220b48a9701e\transformed\jetified-react-android-0.71.8-debug\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] C:\Users\kisaa\.gradle\caches\transforms-3\25f92c44cb7ac95feaec4c24ebebf265\transformed\swiperefreshlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.react:hermes-android:0.71.8] C:\Users\kisaa\.gradle\caches\transforms-3\218ce580b56c0c24a71736548a4a5d23\transformed\jetified-hermes-android-0.71.8-debug\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fbjni:fbjni:0.3.0] C:\Users\kisaa\.gradle\caches\transforms-3\3bc85a9e8b0562842779d1ee2ab1d601\transformed\jetified-fbjni-0.3.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:flipper:2.6.0] C:\Users\kisaa\.gradle\caches\transforms-3\30f48ab5244c8b28fdaa9f30e3385db9\transformed\jetified-flipper-2.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:stetho:2.6.0] C:\Users\kisaa\.gradle\caches\transforms-3\1248b57df377ba012030f56e46124764\transformed\jetified-stetho-2.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fresco:2.6.0] C:\Users\kisaa\.gradle\caches\transforms-3\3c8ee0f4e24a0b56dbb716a257d5db4c\transformed\jetified-fresco-2.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:soloader:2.6.0] C:\Users\kisaa\.gradle\caches\transforms-3\940a36becdc138aa8fd9f6ae138aaadc\transformed\jetified-soloader-2.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.5.0] C:\Users\kisaa\.gradle\caches\transforms-3\9d24f652ec1d365e35859651334e7bd6\transformed\jetified-imagepipeline-okhttp3-2.5.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.6.0] C:\Users\kisaa\.gradle\caches\transforms-3\859b25400da1662ba35b3a077964e3e1\transformed\jetified-drawee-2.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.6.0] C:\Users\kisaa\.gradle\caches\transforms-3\9afeeab978205b889cbaabd981ab2512\transformed\jetified-nativeimagefilters-2.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-native:2.6.0] C:\Users\kisaa\.gradle\caches\transforms-3\ee73aabe8761d3c6bf59de638ecebe25\transformed\jetified-memory-type-native-2.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-java:2.6.0] C:\Users\kisaa\.gradle\caches\transforms-3\17a5b183a3773d9a52b24939a7b6b1dd\transformed\jetified-memory-type-java-2.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-native:2.6.0] C:\Users\kisaa\.gradle\caches\transforms-3\4da8bb10e7bfce7bdcbb5eb0190f18d3\transformed\jetified-imagepipeline-native-2.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.10.4] C:\Users\kisaa\.gradle\caches\transforms-3\b01b5cd1bef489dc35145e27d4310b5b\transformed\jetified-soloader-0.10.4\AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.6.0] C:\Users\kisaa\.gradle\caches\transforms-3\c00e822418908e364a809d7d740d4961\transformed\jetified-memory-type-ashmem-2.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.6.0] C:\Users\kisaa\.gradle\caches\transforms-3\27ad3df1b029b025041e8ab5ecc43bdd\transformed\jetified-imagepipeline-2.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.6.0] C:\Users\kisaa\.gradle\caches\transforms-3\b0dfeaae9671b1909b26d63813496d00\transformed\jetified-nativeimagetranscoder-2.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.6.0] C:\Users\kisaa\.gradle\caches\transforms-3\477403cf4b973a50092390fc60b1e37f\transformed\jetified-imagepipeline-base-2.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.github.yalantis:ucrop:2.2.6-native] C:\Users\kisaa\.gradle\caches\transforms-3\053c79ad68d1f932ed1941a1de4a0687\transformed\jetified-ucrop-2.2.6-native\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\kisaa\.gradle\caches\transforms-3\ad04bc2435baf199f1c495d5eba403d6\transformed\material-1.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.adityaxjha:Android-ScalableVideoView:10e7b4da8b] C:\Users\kisaa\.gradle\caches\transforms-3\a6e0af1f228543e46db74b0e3777c55c\transformed\jetified-Android-ScalableVideoView-10e7b4da8b\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\kisaa\.gradle\caches\transforms-3\437a31dd0a8a6ad222d3936552b22b9f\transformed\constraintlayout-2.0.1\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.4.1] C:\Users\kisaa\.gradle\caches\transforms-3\396dec588c0fb1c71cca35a6a15bac01\transformed\appcompat-1.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\kisaa\.gradle\caches\transforms-3\d710af134cd433515360398fe872ebaf\transformed\sqlite-framework-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] C:\Users\kisaa\.gradle\caches\transforms-3\391d399311e7f14e386cec011973aa16\transformed\jetified-appcompat-resources-1.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.autofill:autofill:1.1.0] C:\Users\kisaa\.gradle\caches\transforms-3\d1f0ef530e5f9e4e5a46a616c2fcb74c\transformed\jetified-autofill-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-auth:20.3.0] C:\Users\kisaa\.gradle\caches\transforms-3\ef371ff7272ab2cfb60be6c344434d27\transformed\jetified-play-services-auth-20.3.0\AndroidManifest.xml:17:1-40:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\kisaa\.gradle\caches\transforms-3\9f6b147e449c8b40452e8fb9f1ffdc92\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-messaging:23.1.2] C:\Users\kisaa\.gradle\caches\transforms-3\8f694150e7a5085cb100751755739636\transformed\jetified-firebase-messaging-23.1.2\AndroidManifest.xml:17:1-61:12
+MERGED from [com.google.firebase:firebase-database:20.1.0] C:\Users\kisaa\.gradle\caches\transforms-3\dd64722594074cfc9e220e25510cfc59\transformed\jetified-firebase-database-20.1.0\AndroidManifest.xml:15:1-37:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.1] C:\Users\kisaa\.gradle\caches\transforms-3\c2307f8e95b788579fd53e64a1156423\transformed\jetified-play-services-auth-api-phone-18.0.1\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.4] C:\Users\kisaa\.gradle\caches\transforms-3\c7178cc0717e97c0c6cd6c5c54d5d07c\transformed\jetified-play-services-auth-base-18.0.4\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.1.0] C:\Users\kisaa\.gradle\caches\transforms-3\d12a56c7806234acc665868af6b1732b\transformed\jetified-firebase-appcheck-interop-16.1.0\AndroidManifest.xml:15:1-25:12
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] C:\Users\kisaa\.gradle\caches\transforms-3\da7642f5d1e0067ea8d1082f05f384d2\transformed\jetified-firebase-database-collection-18.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\kisaa\.gradle\caches\transforms-3\c105a8fc60e7c52289c27256f0a78f55\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.firebase:firebase-datatransport:18.1.7] C:\Users\kisaa\.gradle\caches\transforms-3\c75d906e998b5c9300a0ee5c1fa8e78b\transformed\jetified-firebase-datatransport-18.1.7\AndroidManifest.xml:15:1-33:12
+MERGED from [com.google.firebase:firebase-installations:17.1.3] C:\Users\kisaa\.gradle\caches\transforms-3\9ce64356a3a72e5dea874caecc074ced\transformed\jetified-firebase-installations-17.1.3\AndroidManifest.xml:2:1-23:12
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.2] C:\Users\kisaa\.gradle\caches\transforms-3\5a22f99711b375dcb6987130cde8c4f0\transformed\jetified-firebase-auth-interop-19.0.2\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-common:20.3.2] C:\Users\kisaa\.gradle\caches\transforms-3\e7f40a5548665cd2343f90f260d53e52\transformed\jetified-firebase-common-20.3.2\AndroidManifest.xml:15:1-39:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\kisaa\.gradle\caches\transforms-3\4d016146591a7f9981b6bc22747469f9\transformed\jetified-play-services-stats-17.0.2\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\kisaa\.gradle\caches\transforms-3\b55686c0068771851e1f6f126e120661\transformed\jetified-firebase-measurement-connector-19.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] C:\Users\kisaa\.gradle\caches\transforms-3\8a313a69757af5870d5097472c6d3989\transformed\jetified-firebase-iid-interop-17.1.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] C:\Users\kisaa\.gradle\caches\transforms-3\685f76f81dbcef4282ce7b17447266dd\transformed\jetified-play-services-cloud-messaging-17.0.1\AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.firebase:firebase-installations-interop:17.1.0] C:\Users\kisaa\.gradle\caches\transforms-3\2a690955d29ae171c3fac59414b655b2\transformed\jetified-firebase-installations-interop-17.1.0\AndroidManifest.xml:15:1-22:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\kisaa\.gradle\caches\transforms-3\7816bb6d9903cb97970ad464befb6c5b\transformed\jetified-play-services-tasks-18.0.2\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\kisaa\.gradle\caches\transforms-3\482958b833a6b5638bd35f96d124bd0d\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\kisaa\.gradle\caches\transforms-3\c4104aff45f57dad40c0096d416155ca\transformed\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\kisaa\.gradle\caches\transforms-3\de1dfeab75201b761e9aca57e528c2f9\transformed\jetified-activity-1.2.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\kisaa\.gradle\caches\transforms-3\fff14e8acc7f28985c96a655423e237b\transformed\jetified-emoji2-views-helper-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\kisaa\.gradle\caches\transforms-3\c0505b4d2dae9371cb90a9a4a744c872\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\kisaa\.gradle\caches\transforms-3\ddc56529fe771f26487ef03da4a76d48\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\kisaa\.gradle\caches\transforms-3\6a5766b757dd679ea156b8323e46551c\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.1.0] C:\Users\kisaa\.gradle\caches\transforms-3\947d24f0891bc1e83df55745d208ab15\transformed\jetified-tracing-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:middleware:2.6.0] C:\Users\kisaa\.gradle\caches\transforms-3\6a9e44708079ba80354df2350b524315\transformed\jetified-middleware-2.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:ui-common:2.6.0] C:\Users\kisaa\.gradle\caches\transforms-3\5d405751913df0415f98d58ae72aa149\transformed\jetified-ui-common-2.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.8] C:\Users\kisaa\.gradle\caches\transforms-3\6856a53d2ebdc629092e3ee0a0f3a4b8\transformed\jetified-transport-backend-cct-3.1.8\AndroidManifest.xml:15:1-37:12
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.8] C:\Users\kisaa\.gradle\caches\transforms-3\7f51e78c2438ebda77a66cd231ac70a5\transformed\jetified-transport-runtime-3.1.8\AndroidManifest.xml:15:1-41:12
+MERGED from [com.google.firebase:firebase-components:17.1.0] C:\Users\kisaa\.gradle\caches\transforms-3\08e19b127d4b63521889f4771abe3496\transformed\jetified-firebase-components-17.1.0\AndroidManifest.xml:15:1-22:12
+MERGED from [com.github.Dimezis:BlurView:version-2.0.3] C:\Users\kisaa\.gradle\caches\transforms-3\5902120df8ec6b2d4cca7485af2ffe2e\transformed\jetified-BlurView-version-2.0.3\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.core:core-ktx:1.6.0] C:\Users\kisaa\.gradle\caches\transforms-3\83871347efc2b5385bec5004ec22d57b\transformed\jetified-core-ktx-1.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] C:\Users\kisaa\.gradle\caches\transforms-3\68fc1f87640690fe38e57120755f881a\transformed\exifinterface-1.3.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\kisaa\.gradle\caches\transforms-3\f3f0072b9a62138002b692a9c760f813\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.webkit:webkit:1.4.0] C:\Users\kisaa\.gradle\caches\transforms-3\8eed2f0b58b3efa0d899c9985ec4f8ed\transformed\webkit-1.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\kisaa\.gradle\caches\transforms-3\b2ed5b3118677011c83d48d309789082\transformed\sqlite-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\kisaa\.gradle\caches\transforms-3\dc1f7f31cacf2d8dfd7bd4fb26255a5d\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\kisaa\.gradle\caches\transforms-3\2aa98a44431c3d10a78b52ba8c641a64\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\kisaa\.gradle\caches\transforms-3\32fe0804af39ef7cec4c058cca4c08c8\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\kisaa\.gradle\caches\transforms-3\ef3915189777e058c0394a2bf01dc9c4\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\kisaa\.gradle\caches\transforms-3\4f76d324d820454ce6ef0049d8a82c78\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\kisaa\.gradle\caches\transforms-3\42b44b56bd7d0e8b3c95431d4f63379b\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\kisaa\.gradle\caches\transforms-3\310827c5e2a7639b355e36183bde2c9a\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\kisaa\.gradle\caches\transforms-3\73acc6c28ce5c896c39f17cdee3a0326\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\kisaa\.gradle\caches\transforms-3\e5bfcf14a7da1f05892ff817e0e02302\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\kisaa\.gradle\caches\transforms-3\6d474bb6eeec5035190233b4c8dfb721\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.7.0] C:\Users\kisaa\.gradle\caches\transforms-3\a50900ea39f3d1afbc5c4bdfb2be2662\transformed\core-1.7.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\kisaa\.gradle\caches\transforms-3\1b0d7d4ae0542aba30f5c766d22dc5f1\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\kisaa\.gradle\caches\transforms-3\c801d096386c4e952595bfb25c60b279\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\kisaa\.gradle\caches\transforms-3\e51feed8ceb3b331f8908fb72e1aeb09\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\kisaa\.gradle\caches\transforms-3\d7fe7c35a2e94eff3e59f24a8e1ef05d\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\kisaa\.gradle\caches\transforms-3\de6e9fb39eccf7887c1b83c12df490a6\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\kisaa\.gradle\caches\transforms-3\bf5f32afd33b946529c82bec534367a5\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\kisaa\.gradle\caches\transforms-3\3434e49b21f1b204f5cdad6699928c8b\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\kisaa\.gradle\caches\transforms-3\d79dd70d9ce6eb1879f4e35d52d6a3f1\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\kisaa\.gradle\caches\transforms-3\f2572ad327503081df3e6c547094beb8\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] C:\Users\kisaa\.gradle\caches\transforms-3\a76818e58aec906da7746d7869caf83a\transformed\lifecycle-runtime-2.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\kisaa\.gradle\caches\transforms-3\83ac6d83c713df176907714df1483da0\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] C:\Users\kisaa\.gradle\caches\transforms-3\0a32f86dea90b6d18017f77f32b53332\transformed\jetified-transport-api-3.0.0\AndroidManifest.xml:15:1-22:12
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] C:\Users\kisaa\.gradle\caches\transforms-3\dc47ecc435c7fd1c7efa27b35039334c\transformed\jetified-firebase-encoders-json-18.0.0\AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\kisaa\.gradle\caches\transforms-3\87b1c4e79f0f6e82d0d2acef644ab722\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\kisaa\.gradle\caches\transforms-3\7d2f06f666e1c912322861c84b832bed\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\kisaa\.gradle\caches\transforms-3\49b877d73a71e25032a43e4ac12720a3\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:2.6.0] C:\Users\kisaa\.gradle\caches\transforms-3\9b3dd6e7547e67f18510116ac5bff5fd\transformed\jetified-fbcore-2.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\kisaa\.gradle\caches\transforms-3\1269912ffc3e682a81f5a15fe29b9d35\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+INJECTED from D:\Developer\MobileApps\USSIA\vendor\android\app\src\debug\AndroidManifest.xml:2:1-13:12
+INJECTED from D:\Developer\MobileApps\USSIA\vendor\android\app\src\debug\AndroidManifest.xml:2:1-13:12
+INJECTED from D:\Developer\MobileApps\USSIA\vendor\android\app\src\debug\AndroidManifest.xml:2:1-13:12
+	package
+		INJECTED from D:\Developer\MobileApps\USSIA\vendor\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\Developer\MobileApps\USSIA\vendor\android\app\src\main\AndroidManifest.xml:1:1-30:12
+		INJECTED from D:\Developer\MobileApps\USSIA\vendor\android\app\src\debug\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Developer\MobileApps\USSIA\vendor\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\Developer\MobileApps\USSIA\vendor\android\app\src\main\AndroidManifest.xml:1:1-30:12
+		INJECTED from D:\Developer\MobileApps\USSIA\vendor\android\app\src\debug\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\Developer\MobileApps\USSIA\vendor\android\app\src\debug\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from D:\Developer\MobileApps\USSIA\vendor\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\Developer\MobileApps\USSIA\vendor\android\app\src\main\AndroidManifest.xml:1:1-30:12
+		INJECTED from D:\Developer\MobileApps\USSIA\vendor\android\app\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Developer\MobileApps\USSIA\vendor\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from D:\Developer\MobileApps\USSIA\vendor\android\app\src\main\AndroidManifest.xml:3:5-67
+MERGED from [com.facebook.flipper:flipper:0.125.0] C:\Users\kisaa\.gradle\caches\transforms-3\4969da6f46f6dd6f1e85846c6edf401c\transformed\jetified-flipper-0.125.0\AndroidManifest.xml:15:5-67
+MERGED from [com.facebook.flipper:flipper:0.125.0] C:\Users\kisaa\.gradle\caches\transforms-3\4969da6f46f6dd6f1e85846c6edf401c\transformed\jetified-flipper-0.125.0\AndroidManifest.xml:15:5-67
+MERGED from [:react-native-firebase_database] D:\Developer\MobileApps\USSIA\vendor\node_modules\@react-native-firebase\database\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-67
+MERGED from [:react-native-firebase_database] D:\Developer\MobileApps\USSIA\vendor\node_modules\@react-native-firebase\database\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-67
+MERGED from [:react-native-firebase_messaging] D:\Developer\MobileApps\USSIA\vendor\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-67
+MERGED from [:react-native-firebase_messaging] D:\Developer\MobileApps\USSIA\vendor\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-67
+MERGED from [com.google.firebase:firebase-database:20.1.0] C:\Users\kisaa\.gradle\caches\transforms-3\dd64722594074cfc9e220e25510cfc59\transformed\jetified-firebase-database-20.1.0\AndroidManifest.xml:25:5-67
+MERGED from [com.google.firebase:firebase-database:20.1.0] C:\Users\kisaa\.gradle\caches\transforms-3\dd64722594074cfc9e220e25510cfc59\transformed\jetified-firebase-database-20.1.0\AndroidManifest.xml:25:5-67
+MERGED from [com.google.firebase:firebase-installations:17.1.3] C:\Users\kisaa\.gradle\caches\transforms-3\9ce64356a3a72e5dea874caecc074ced\transformed\jetified-firebase-installations-17.1.3\AndroidManifest.xml:10:5-67
+MERGED from [com.google.firebase:firebase-installations:17.1.3] C:\Users\kisaa\.gradle\caches\transforms-3\9ce64356a3a72e5dea874caecc074ced\transformed\jetified-firebase-installations-17.1.3\AndroidManifest.xml:10:5-67
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] C:\Users\kisaa\.gradle\caches\transforms-3\685f76f81dbcef4282ce7b17447266dd\transformed\jetified-play-services-cloud-messaging-17.0.1\AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] C:\Users\kisaa\.gradle\caches\transforms-3\685f76f81dbcef4282ce7b17447266dd\transformed\jetified-play-services-cloud-messaging-17.0.1\AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.8] C:\Users\kisaa\.gradle\caches\transforms-3\6856a53d2ebdc629092e3ee0a0f3a4b8\transformed\jetified-transport-backend-cct-3.1.8\AndroidManifest.xml:25:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.8] C:\Users\kisaa\.gradle\caches\transforms-3\6856a53d2ebdc629092e3ee0a0f3a4b8\transformed\jetified-transport-backend-cct-3.1.8\AndroidManifest.xml:25:5-67
+	android:name
+		ADDED from D:\Developer\MobileApps\USSIA\vendor\android\app\src\main\AndroidManifest.xml:3:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from D:\Developer\MobileApps\USSIA\vendor\android\app\src\main\AndroidManifest.xml:4:5-77
+MERGED from D:\Developer\MobileApps\USSIA\vendor\android\app\src\main\AndroidManifest.xml:4:5-77
+MERGED from D:\Developer\MobileApps\USSIA\vendor\android\app\src\main\AndroidManifest.xml:4:5-77
+	android:name
+		ADDED from D:\Developer\MobileApps\USSIA\vendor\android\app\src\main\AndroidManifest.xml:4:22-75
+uses-permission#android.permission.CAMERA
+ADDED from D:\Developer\MobileApps\USSIA\vendor\android\app\src\main\AndroidManifest.xml:5:5-64
+	android:name
+		ADDED from D:\Developer\MobileApps\USSIA\vendor\android\app\src\main\AndroidManifest.xml:5:22-62
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\Developer\MobileApps\USSIA\vendor\android\app\src\main\AndroidManifest.xml:6:5-80
+	android:name
+		ADDED from D:\Developer\MobileApps\USSIA\vendor\android\app\src\main\AndroidManifest.xml:6:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\Developer\MobileApps\USSIA\vendor\android\app\src\main\AndroidManifest.xml:7:5-80
+MERGED from [:react-native-image-crop-picker] D:\Developer\MobileApps\USSIA\vendor\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:15:5-81
+MERGED from [:react-native-image-crop-picker] D:\Developer\MobileApps\USSIA\vendor\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:15:5-81
+	android:name
+		ADDED from D:\Developer\MobileApps\USSIA\vendor\android\app\src\main\AndroidManifest.xml:7:22-78
+uses-permission#android.permission.POST_NOTIFICATIONS
+ADDED from D:\Developer\MobileApps\USSIA\vendor\android\app\src\main\AndroidManifest.xml:8:5-76
+MERGED from [com.google.firebase:firebase-messaging:23.1.2] C:\Users\kisaa\.gradle\caches\transforms-3\8f694150e7a5085cb100751755739636\transformed\jetified-firebase-messaging-23.1.2\AndroidManifest.xml:25:5-77
+MERGED from [com.google.firebase:firebase-messaging:23.1.2] C:\Users\kisaa\.gradle\caches\transforms-3\8f694150e7a5085cb100751755739636\transformed\jetified-firebase-messaging-23.1.2\AndroidManifest.xml:25:5-77
+	android:name
+		ADDED from D:\Developer\MobileApps\USSIA\vendor\android\app\src\main\AndroidManifest.xml:8:22-74
+application
+ADDED from D:\Developer\MobileApps\USSIA\vendor\android\app\src\main\AndroidManifest.xml:10:5-29:19
+MERGED from D:\Developer\MobileApps\USSIA\vendor\android\app\src\main\AndroidManifest.xml:10:5-29:19
+MERGED from D:\Developer\MobileApps\USSIA\vendor\android\app\src\main\AndroidManifest.xml:10:5-29:19
+MERGED from [:react-native-community_datetimepicker] D:\Developer\MobileApps\USSIA\vendor\node_modules\@react-native-community\datetimepicker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-20
+MERGED from [:react-native-community_datetimepicker] D:\Developer\MobileApps\USSIA\vendor\node_modules\@react-native-community\datetimepicker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-20
+MERGED from [:react-native-firebase_messaging] D:\Developer\MobileApps\USSIA\vendor\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:13:5-43:19
+MERGED from [:react-native-firebase_messaging] D:\Developer\MobileApps\USSIA\vendor\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:13:5-43:19
+MERGED from [:react-native-firebase_app] D:\Developer\MobileApps\USSIA\vendor\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:10:5-30:19
+MERGED from [:react-native-firebase_app] D:\Developer\MobileApps\USSIA\vendor\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:10:5-30:19
+MERGED from [:react-native-image-crop-picker] D:\Developer\MobileApps\USSIA\vendor\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:17:5-31:19
+MERGED from [:react-native-image-crop-picker] D:\Developer\MobileApps\USSIA\vendor\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:17:5-31:19
+MERGED from [:react-native-image-picker] D:\Developer\MobileApps\USSIA\vendor\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-19:19
+MERGED from [:react-native-image-picker] D:\Developer\MobileApps\USSIA\vendor\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-19:19
+MERGED from [:react-native-webview] D:\Developer\MobileApps\USSIA\vendor\node_modules\react-native-webview\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-19:19
+MERGED from [:react-native-webview] D:\Developer\MobileApps\USSIA\vendor\node_modules\react-native-webview\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-19:19
+MERGED from [com.facebook.react:react-android:0.71.8] C:\Users\kisaa\.gradle\caches\transforms-3\fe929e9d7040099dd94c220b48a9701e\transformed\jetified-react-android-0.71.8-debug\AndroidManifest.xml:9:5-20
+MERGED from [com.facebook.react:react-android:0.71.8] C:\Users\kisaa\.gradle\caches\transforms-3\fe929e9d7040099dd94c220b48a9701e\transformed\jetified-react-android-0.71.8-debug\AndroidManifest.xml:9:5-20
+MERGED from [com.facebook.soloader:soloader:0.10.4] C:\Users\kisaa\.gradle\caches\transforms-3\b01b5cd1bef489dc35145e27d4310b5b\transformed\jetified-soloader-0.10.4\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.10.4] C:\Users\kisaa\.gradle\caches\transforms-3\b01b5cd1bef489dc35145e27d4310b5b\transformed\jetified-soloader-0.10.4\AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\kisaa\.gradle\caches\transforms-3\ad04bc2435baf199f1c495d5eba403d6\transformed\material-1.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\kisaa\.gradle\caches\transforms-3\ad04bc2435baf199f1c495d5eba403d6\transformed\material-1.4.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\kisaa\.gradle\caches\transforms-3\437a31dd0a8a6ad222d3936552b22b9f\transformed\constraintlayout-2.0.1\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\kisaa\.gradle\caches\transforms-3\437a31dd0a8a6ad222d3936552b22b9f\transformed\constraintlayout-2.0.1\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-auth:20.3.0] C:\Users\kisaa\.gradle\caches\transforms-3\ef371ff7272ab2cfb60be6c344434d27\transformed\jetified-play-services-auth-20.3.0\AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.gms:play-services-auth:20.3.0] C:\Users\kisaa\.gradle\caches\transforms-3\ef371ff7272ab2cfb60be6c344434d27\transformed\jetified-play-services-auth-20.3.0\AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.firebase:firebase-messaging:23.1.2] C:\Users\kisaa\.gradle\caches\transforms-3\8f694150e7a5085cb100751755739636\transformed\jetified-firebase-messaging-23.1.2\AndroidManifest.xml:30:5-59:19
+MERGED from [com.google.firebase:firebase-messaging:23.1.2] C:\Users\kisaa\.gradle\caches\transforms-3\8f694150e7a5085cb100751755739636\transformed\jetified-firebase-messaging-23.1.2\AndroidManifest.xml:30:5-59:19
+MERGED from [com.google.firebase:firebase-database:20.1.0] C:\Users\kisaa\.gradle\caches\transforms-3\dd64722594074cfc9e220e25510cfc59\transformed\jetified-firebase-database-20.1.0\AndroidManifest.xml:27:5-35:19
+MERGED from [com.google.firebase:firebase-database:20.1.0] C:\Users\kisaa\.gradle\caches\transforms-3\dd64722594074cfc9e220e25510cfc59\transformed\jetified-firebase-database-20.1.0\AndroidManifest.xml:27:5-35:19
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.1.0] C:\Users\kisaa\.gradle\caches\transforms-3\d12a56c7806234acc665868af6b1732b\transformed\jetified-firebase-appcheck-interop-16.1.0\AndroidManifest.xml:23:5-20
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.1.0] C:\Users\kisaa\.gradle\caches\transforms-3\d12a56c7806234acc665868af6b1732b\transformed\jetified-firebase-appcheck-interop-16.1.0\AndroidManifest.xml:23:5-20
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\kisaa\.gradle\caches\transforms-3\c105a8fc60e7c52289c27256f0a78f55\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\kisaa\.gradle\caches\transforms-3\c105a8fc60e7c52289c27256f0a78f55\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.firebase:firebase-datatransport:18.1.7] C:\Users\kisaa\.gradle\caches\transforms-3\c75d906e998b5c9300a0ee5c1fa8e78b\transformed\jetified-firebase-datatransport-18.1.7\AndroidManifest.xml:23:5-31:19
+MERGED from [com.google.firebase:firebase-datatransport:18.1.7] C:\Users\kisaa\.gradle\caches\transforms-3\c75d906e998b5c9300a0ee5c1fa8e78b\transformed\jetified-firebase-datatransport-18.1.7\AndroidManifest.xml:23:5-31:19
+MERGED from [com.google.firebase:firebase-installations:17.1.3] C:\Users\kisaa\.gradle\caches\transforms-3\9ce64356a3a72e5dea874caecc074ced\transformed\jetified-firebase-installations-17.1.3\AndroidManifest.xml:13:5-21:19
+MERGED from [com.google.firebase:firebase-installations:17.1.3] C:\Users\kisaa\.gradle\caches\transforms-3\9ce64356a3a72e5dea874caecc074ced\transformed\jetified-firebase-installations-17.1.3\AndroidManifest.xml:13:5-21:19
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.2] C:\Users\kisaa\.gradle\caches\transforms-3\5a22f99711b375dcb6987130cde8c4f0\transformed\jetified-firebase-auth-interop-19.0.2\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.2] C:\Users\kisaa\.gradle\caches\transforms-3\5a22f99711b375dcb6987130cde8c4f0\transformed\jetified-firebase-auth-interop-19.0.2\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-common:20.3.2] C:\Users\kisaa\.gradle\caches\transforms-3\e7f40a5548665cd2343f90f260d53e52\transformed\jetified-firebase-common-20.3.2\AndroidManifest.xml:24:5-37:19
+MERGED from [com.google.firebase:firebase-common:20.3.2] C:\Users\kisaa\.gradle\caches\transforms-3\e7f40a5548665cd2343f90f260d53e52\transformed\jetified-firebase-common-20.3.2\AndroidManifest.xml:24:5-37:19
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\kisaa\.gradle\caches\transforms-3\4d016146591a7f9981b6bc22747469f9\transformed\jetified-play-services-stats-17.0.2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\kisaa\.gradle\caches\transforms-3\4d016146591a7f9981b6bc22747469f9\transformed\jetified-play-services-stats-17.0.2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\kisaa\.gradle\caches\transforms-3\b55686c0068771851e1f6f126e120661\transformed\jetified-firebase-measurement-connector-19.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\kisaa\.gradle\caches\transforms-3\b55686c0068771851e1f6f126e120661\transformed\jetified-firebase-measurement-connector-19.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] C:\Users\kisaa\.gradle\caches\transforms-3\8a313a69757af5870d5097472c6d3989\transformed\jetified-firebase-iid-interop-17.1.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] C:\Users\kisaa\.gradle\caches\transforms-3\8a313a69757af5870d5097472c6d3989\transformed\jetified-firebase-iid-interop-17.1.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\kisaa\.gradle\caches\transforms-3\7816bb6d9903cb97970ad464befb6c5b\transformed\jetified-play-services-tasks-18.0.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\kisaa\.gradle\caches\transforms-3\7816bb6d9903cb97970ad464befb6c5b\transformed\jetified-play-services-tasks-18.0.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\kisaa\.gradle\caches\transforms-3\482958b833a6b5638bd35f96d124bd0d\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\kisaa\.gradle\caches\transforms-3\482958b833a6b5638bd35f96d124bd0d\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\kisaa\.gradle\caches\transforms-3\c0505b4d2dae9371cb90a9a4a744c872\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\kisaa\.gradle\caches\transforms-3\c0505b4d2dae9371cb90a9a4a744c872\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\kisaa\.gradle\caches\transforms-3\ddc56529fe771f26487ef03da4a76d48\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\kisaa\.gradle\caches\transforms-3\ddc56529fe771f26487ef03da4a76d48\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\kisaa\.gradle\caches\transforms-3\6a5766b757dd679ea156b8323e46551c\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\kisaa\.gradle\caches\transforms-3\6a5766b757dd679ea156b8323e46551c\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:25:5-31:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.8] C:\Users\kisaa\.gradle\caches\transforms-3\6856a53d2ebdc629092e3ee0a0f3a4b8\transformed\jetified-transport-backend-cct-3.1.8\AndroidManifest.xml:27:5-35:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.8] C:\Users\kisaa\.gradle\caches\transforms-3\6856a53d2ebdc629092e3ee0a0f3a4b8\transformed\jetified-transport-backend-cct-3.1.8\AndroidManifest.xml:27:5-35:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.8] C:\Users\kisaa\.gradle\caches\transforms-3\7f51e78c2438ebda77a66cd231ac70a5\transformed\jetified-transport-runtime-3.1.8\AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.8] C:\Users\kisaa\.gradle\caches\transforms-3\7f51e78c2438ebda77a66cd231ac70a5\transformed\jetified-transport-runtime-3.1.8\AndroidManifest.xml:25:5-39:19
+MERGED from [com.github.Dimezis:BlurView:version-2.0.3] C:\Users\kisaa\.gradle\caches\transforms-3\5902120df8ec6b2d4cca7485af2ffe2e\transformed\jetified-BlurView-version-2.0.3\AndroidManifest.xml:9:5-20
+MERGED from [com.github.Dimezis:BlurView:version-2.0.3] C:\Users\kisaa\.gradle\caches\transforms-3\5902120df8ec6b2d4cca7485af2ffe2e\transformed\jetified-BlurView-version-2.0.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.7.0] C:\Users\kisaa\.gradle\caches\transforms-3\a50900ea39f3d1afbc5c4bdfb2be2662\transformed\core-1.7.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.7.0] C:\Users\kisaa\.gradle\caches\transforms-3\a50900ea39f3d1afbc5c4bdfb2be2662\transformed\core-1.7.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\kisaa\.gradle\caches\transforms-3\bf5f32afd33b946529c82bec534367a5\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\kisaa\.gradle\caches\transforms-3\bf5f32afd33b946529c82bec534367a5\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.7.0] C:\Users\kisaa\.gradle\caches\transforms-3\a50900ea39f3d1afbc5c4bdfb2be2662\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from D:\Developer\MobileApps\USSIA\vendor\android\app\src\main\AndroidManifest.xml:12:7-39
+		ADDED from D:\Developer\MobileApps\USSIA\vendor\android\app\src\main\AndroidManifest.xml:12:7-39
+	tools:ignore
+		ADDED from D:\Developer\MobileApps\USSIA\vendor\android\app\src\debug\AndroidManifest.xml:10:9-48
+	android:roundIcon
+		ADDED from D:\Developer\MobileApps\USSIA\vendor\android\app\src\main\AndroidManifest.xml:14:7-52
+		ADDED from D:\Developer\MobileApps\USSIA\vendor\android\app\src\main\AndroidManifest.xml:14:7-52
+	tools:targetApi
+		ADDED from D:\Developer\MobileApps\USSIA\vendor\android\app\src\debug\AndroidManifest.xml:9:9-29
+	android:icon
+		ADDED from D:\Developer\MobileApps\USSIA\vendor\android\app\src\main\AndroidManifest.xml:13:7-41
+		ADDED from D:\Developer\MobileApps\USSIA\vendor\android\app\src\main\AndroidManifest.xml:13:7-41
+	android:allowBackup
+		ADDED from D:\Developer\MobileApps\USSIA\vendor\android\app\src\main\AndroidManifest.xml:15:7-34
+		ADDED from D:\Developer\MobileApps\USSIA\vendor\android\app\src\main\AndroidManifest.xml:15:7-34
+	android:theme
+		ADDED from D:\Developer\MobileApps\USSIA\vendor\android\app\src\main\AndroidManifest.xml:16:7-38
+		ADDED from D:\Developer\MobileApps\USSIA\vendor\android\app\src\main\AndroidManifest.xml:16:7-38
+	android:usesCleartextTraffic
+		ADDED from D:\Developer\MobileApps\USSIA\vendor\android\app\src\debug\AndroidManifest.xml:8:9-44
+	android:name
+		ADDED from D:\Developer\MobileApps\USSIA\vendor\android\app\src\main\AndroidManifest.xml:11:7-38
+		ADDED from D:\Developer\MobileApps\USSIA\vendor\android\app\src\main\AndroidManifest.xml:11:7-38
+activity#com.ussia.vendor.MainActivity
+ADDED from D:\Developer\MobileApps\USSIA\vendor\android\app\src\main\AndroidManifest.xml:17:7-28:18
+	android:label
+		ADDED from D:\Developer\MobileApps\USSIA\vendor\android\app\src\main\AndroidManifest.xml:19:9-41
+	android:launchMode
+		ADDED from D:\Developer\MobileApps\USSIA\vendor\android\app\src\main\AndroidManifest.xml:21:9-40
+	android:windowSoftInputMode
+		ADDED from D:\Developer\MobileApps\USSIA\vendor\android\app\src\main\AndroidManifest.xml:22:9-51
+	android:exported
+		ADDED from D:\Developer\MobileApps\USSIA\vendor\android\app\src\main\AndroidManifest.xml:23:9-32
+	android:configChanges
+		ADDED from D:\Developer\MobileApps\USSIA\vendor\android\app\src\main\AndroidManifest.xml:20:9-118
+	android:name
+		ADDED from D:\Developer\MobileApps\USSIA\vendor\android\app\src\main\AndroidManifest.xml:18:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Developer\MobileApps\USSIA\vendor\android\app\src\main\AndroidManifest.xml:24:9-27:25
+action#android.intent.action.MAIN
+ADDED from D:\Developer\MobileApps\USSIA\vendor\android\app\src\main\AndroidManifest.xml:25:13-65
+	android:name
+		ADDED from D:\Developer\MobileApps\USSIA\vendor\android\app\src\main\AndroidManifest.xml:25:21-62
+category#android.intent.category.LAUNCHER
+ADDED from D:\Developer\MobileApps\USSIA\vendor\android\app\src\main\AndroidManifest.xml:26:13-73
+	android:name
+		ADDED from D:\Developer\MobileApps\USSIA\vendor\android\app\src\main\AndroidManifest.xml:26:23-70
+uses-sdk
+INJECTED from D:\Developer\MobileApps\USSIA\vendor\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Developer\MobileApps\USSIA\vendor\android\app\src\main\AndroidManifest.xml
+INJECTED from D:\Developer\MobileApps\USSIA\vendor\android\app\src\main\AndroidManifest.xml
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.125.0] C:\Users\kisaa\.gradle\caches\transforms-3\cb2092d1d449d58f0444a2b23138ab01\transformed\jetified-flipper-network-plugin-0.125.0\AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.125.0] C:\Users\kisaa\.gradle\caches\transforms-3\cb2092d1d449d58f0444a2b23138ab01\transformed\jetified-flipper-network-plugin-0.125.0\AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.125.0] C:\Users\kisaa\.gradle\caches\transforms-3\6e569153b888185c45a073b3e3fdffbf\transformed\jetified-flipper-fresco-plugin-0.125.0\AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.125.0] C:\Users\kisaa\.gradle\caches\transforms-3\6e569153b888185c45a073b3e3fdffbf\transformed\jetified-flipper-fresco-plugin-0.125.0\AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper:0.125.0] C:\Users\kisaa\.gradle\caches\transforms-3\4969da6f46f6dd6f1e85846c6edf401c\transformed\jetified-flipper-0.125.0\AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper:0.125.0] C:\Users\kisaa\.gradle\caches\transforms-3\4969da6f46f6dd6f1e85846c6edf401c\transformed\jetified-flipper-0.125.0\AndroidManifest.xml:11:5-13:41
+MERGED from [:react-native-vector-icons] D:\Developer\MobileApps\USSIA\vendor\node_modules\react-native-vector-icons\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-vector-icons] D:\Developer\MobileApps\USSIA\vendor\node_modules\react-native-vector-icons\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-async-storage_async-storage] D:\Developer\MobileApps\USSIA\vendor\node_modules\@react-native-async-storage\async-storage\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-async-storage_async-storage] D:\Developer\MobileApps\USSIA\vendor\node_modules\@react-native-async-storage\async-storage\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_blur] D:\Developer\MobileApps\USSIA\vendor\node_modules\@react-native-community\blur\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_blur] D:\Developer\MobileApps\USSIA\vendor\node_modules\@react-native-community\blur\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_checkbox] D:\Developer\MobileApps\USSIA\vendor\node_modules\@react-native-community\checkbox\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_checkbox] D:\Developer\MobileApps\USSIA\vendor\node_modules\@react-native-community\checkbox\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_clipboard] D:\Developer\MobileApps\USSIA\vendor\node_modules\@react-native-community\clipboard\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_clipboard] D:\Developer\MobileApps\USSIA\vendor\node_modules\@react-native-community\clipboard\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_datetimepicker] D:\Developer\MobileApps\USSIA\vendor\node_modules\@react-native-community\datetimepicker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_datetimepicker] D:\Developer\MobileApps\USSIA\vendor\node_modules\@react-native-community\datetimepicker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-firebase_database] D:\Developer\MobileApps\USSIA\vendor\node_modules\@react-native-firebase\database\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-firebase_database] D:\Developer\MobileApps\USSIA\vendor\node_modules\@react-native-firebase\database\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-firebase_messaging] D:\Developer\MobileApps\USSIA\vendor\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-firebase_messaging] D:\Developer\MobileApps\USSIA\vendor\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-firebase_app] D:\Developer\MobileApps\USSIA\vendor\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:6:5-8:41
+MERGED from [:react-native-firebase_app] D:\Developer\MobileApps\USSIA\vendor\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:6:5-8:41
+MERGED from [:react-native-picker_picker] D:\Developer\MobileApps\USSIA\vendor\node_modules\@react-native-picker\picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-picker_picker] D:\Developer\MobileApps\USSIA\vendor\node_modules\@react-native-picker\picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-drop-shadow] D:\Developer\MobileApps\USSIA\vendor\node_modules\react-native-drop-shadow\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-drop-shadow] D:\Developer\MobileApps\USSIA\vendor\node_modules\react-native-drop-shadow\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-gesture-handler] D:\Developer\MobileApps\USSIA\vendor\node_modules\react-native-gesture-handler\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-gesture-handler] D:\Developer\MobileApps\USSIA\vendor\node_modules\react-native-gesture-handler\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-image-crop-picker] D:\Developer\MobileApps\USSIA\vendor\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-image-crop-picker] D:\Developer\MobileApps\USSIA\vendor\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-image-picker] D:\Developer\MobileApps\USSIA\vendor\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-image-picker] D:\Developer\MobileApps\USSIA\vendor\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-linear-gradient] D:\Developer\MobileApps\USSIA\vendor\node_modules\react-native-linear-gradient\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-linear-gradient] D:\Developer\MobileApps\USSIA\vendor\node_modules\react-native-linear-gradient\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-pager-view] D:\Developer\MobileApps\USSIA\vendor\node_modules\react-native-pager-view\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-pager-view] D:\Developer\MobileApps\USSIA\vendor\node_modules\react-native-pager-view\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-reanimated] D:\Developer\MobileApps\USSIA\vendor\node_modules\react-native-reanimated\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-reanimated] D:\Developer\MobileApps\USSIA\vendor\node_modules\react-native-reanimated\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] D:\Developer\MobileApps\USSIA\vendor\node_modules\react-native-safe-area-context\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] D:\Developer\MobileApps\USSIA\vendor\node_modules\react-native-safe-area-context\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-screens] D:\Developer\MobileApps\USSIA\vendor\node_modules\react-native-screens\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-screens] D:\Developer\MobileApps\USSIA\vendor\node_modules\react-native-screens\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-snackbar] D:\Developer\MobileApps\USSIA\vendor\node_modules\react-native-snackbar\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-snackbar] D:\Developer\MobileApps\USSIA\vendor\node_modules\react-native-snackbar\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-svg] D:\Developer\MobileApps\USSIA\vendor\node_modules\react-native-svg\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-svg] D:\Developer\MobileApps\USSIA\vendor\node_modules\react-native-svg\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-video] D:\Developer\MobileApps\USSIA\vendor\node_modules\react-native-video\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-video] D:\Developer\MobileApps\USSIA\vendor\node_modules\react-native-video\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-webview] D:\Developer\MobileApps\USSIA\vendor\node_modules\react-native-webview\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-webview] D:\Developer\MobileApps\USSIA\vendor\node_modules\react-native-webview\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-android:0.71.8] C:\Users\kisaa\.gradle\caches\transforms-3\fe929e9d7040099dd94c220b48a9701e\transformed\jetified-react-android-0.71.8-debug\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-android:0.71.8] C:\Users\kisaa\.gradle\caches\transforms-3\fe929e9d7040099dd94c220b48a9701e\transformed\jetified-react-android-0.71.8-debug\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] C:\Users\kisaa\.gradle\caches\transforms-3\25f92c44cb7ac95feaec4c24ebebf265\transformed\swiperefreshlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] C:\Users\kisaa\.gradle\caches\transforms-3\25f92c44cb7ac95feaec4c24ebebf265\transformed\swiperefreshlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.react:hermes-android:0.71.8] C:\Users\kisaa\.gradle\caches\transforms-3\218ce580b56c0c24a71736548a4a5d23\transformed\jetified-hermes-android-0.71.8-debug\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:hermes-android:0.71.8] C:\Users\kisaa\.gradle\caches\transforms-3\218ce580b56c0c24a71736548a4a5d23\transformed\jetified-hermes-android-0.71.8-debug\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fbjni:fbjni:0.3.0] C:\Users\kisaa\.gradle\caches\transforms-3\3bc85a9e8b0562842779d1ee2ab1d601\transformed\jetified-fbjni-0.3.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fbjni:fbjni:0.3.0] C:\Users\kisaa\.gradle\caches\transforms-3\3bc85a9e8b0562842779d1ee2ab1d601\transformed\jetified-fbjni-0.3.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:flipper:2.6.0] C:\Users\kisaa\.gradle\caches\transforms-3\30f48ab5244c8b28fdaa9f30e3385db9\transformed\jetified-flipper-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:flipper:2.6.0] C:\Users\kisaa\.gradle\caches\transforms-3\30f48ab5244c8b28fdaa9f30e3385db9\transformed\jetified-flipper-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:stetho:2.6.0] C:\Users\kisaa\.gradle\caches\transforms-3\1248b57df377ba012030f56e46124764\transformed\jetified-stetho-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:stetho:2.6.0] C:\Users\kisaa\.gradle\caches\transforms-3\1248b57df377ba012030f56e46124764\transformed\jetified-stetho-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.6.0] C:\Users\kisaa\.gradle\caches\transforms-3\3c8ee0f4e24a0b56dbb716a257d5db4c\transformed\jetified-fresco-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.6.0] C:\Users\kisaa\.gradle\caches\transforms-3\3c8ee0f4e24a0b56dbb716a257d5db4c\transformed\jetified-fresco-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.6.0] C:\Users\kisaa\.gradle\caches\transforms-3\940a36becdc138aa8fd9f6ae138aaadc\transformed\jetified-soloader-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.6.0] C:\Users\kisaa\.gradle\caches\transforms-3\940a36becdc138aa8fd9f6ae138aaadc\transformed\jetified-soloader-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.5.0] C:\Users\kisaa\.gradle\caches\transforms-3\9d24f652ec1d365e35859651334e7bd6\transformed\jetified-imagepipeline-okhttp3-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.5.0] C:\Users\kisaa\.gradle\caches\transforms-3\9d24f652ec1d365e35859651334e7bd6\transformed\jetified-imagepipeline-okhttp3-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.6.0] C:\Users\kisaa\.gradle\caches\transforms-3\859b25400da1662ba35b3a077964e3e1\transformed\jetified-drawee-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.6.0] C:\Users\kisaa\.gradle\caches\transforms-3\859b25400da1662ba35b3a077964e3e1\transformed\jetified-drawee-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.6.0] C:\Users\kisaa\.gradle\caches\transforms-3\9afeeab978205b889cbaabd981ab2512\transformed\jetified-nativeimagefilters-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.6.0] C:\Users\kisaa\.gradle\caches\transforms-3\9afeeab978205b889cbaabd981ab2512\transformed\jetified-nativeimagefilters-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.6.0] C:\Users\kisaa\.gradle\caches\transforms-3\ee73aabe8761d3c6bf59de638ecebe25\transformed\jetified-memory-type-native-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.6.0] C:\Users\kisaa\.gradle\caches\transforms-3\ee73aabe8761d3c6bf59de638ecebe25\transformed\jetified-memory-type-native-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.6.0] C:\Users\kisaa\.gradle\caches\transforms-3\17a5b183a3773d9a52b24939a7b6b1dd\transformed\jetified-memory-type-java-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.6.0] C:\Users\kisaa\.gradle\caches\transforms-3\17a5b183a3773d9a52b24939a7b6b1dd\transformed\jetified-memory-type-java-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.6.0] C:\Users\kisaa\.gradle\caches\transforms-3\4da8bb10e7bfce7bdcbb5eb0190f18d3\transformed\jetified-imagepipeline-native-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.6.0] C:\Users\kisaa\.gradle\caches\transforms-3\4da8bb10e7bfce7bdcbb5eb0190f18d3\transformed\jetified-imagepipeline-native-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.10.4] C:\Users\kisaa\.gradle\caches\transforms-3\b01b5cd1bef489dc35145e27d4310b5b\transformed\jetified-soloader-0.10.4\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.10.4] C:\Users\kisaa\.gradle\caches\transforms-3\b01b5cd1bef489dc35145e27d4310b5b\transformed\jetified-soloader-0.10.4\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.6.0] C:\Users\kisaa\.gradle\caches\transforms-3\c00e822418908e364a809d7d740d4961\transformed\jetified-memory-type-ashmem-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.6.0] C:\Users\kisaa\.gradle\caches\transforms-3\c00e822418908e364a809d7d740d4961\transformed\jetified-memory-type-ashmem-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.6.0] C:\Users\kisaa\.gradle\caches\transforms-3\27ad3df1b029b025041e8ab5ecc43bdd\transformed\jetified-imagepipeline-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.6.0] C:\Users\kisaa\.gradle\caches\transforms-3\27ad3df1b029b025041e8ab5ecc43bdd\transformed\jetified-imagepipeline-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.6.0] C:\Users\kisaa\.gradle\caches\transforms-3\b0dfeaae9671b1909b26d63813496d00\transformed\jetified-nativeimagetranscoder-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.6.0] C:\Users\kisaa\.gradle\caches\transforms-3\b0dfeaae9671b1909b26d63813496d00\transformed\jetified-nativeimagetranscoder-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.6.0] C:\Users\kisaa\.gradle\caches\transforms-3\477403cf4b973a50092390fc60b1e37f\transformed\jetified-imagepipeline-base-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.6.0] C:\Users\kisaa\.gradle\caches\transforms-3\477403cf4b973a50092390fc60b1e37f\transformed\jetified-imagepipeline-base-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.yalantis:ucrop:2.2.6-native] C:\Users\kisaa\.gradle\caches\transforms-3\053c79ad68d1f932ed1941a1de4a0687\transformed\jetified-ucrop-2.2.6-native\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.yalantis:ucrop:2.2.6-native] C:\Users\kisaa\.gradle\caches\transforms-3\053c79ad68d1f932ed1941a1de4a0687\transformed\jetified-ucrop-2.2.6-native\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\kisaa\.gradle\caches\transforms-3\ad04bc2435baf199f1c495d5eba403d6\transformed\material-1.4.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\kisaa\.gradle\caches\transforms-3\ad04bc2435baf199f1c495d5eba403d6\transformed\material-1.4.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.adityaxjha:Android-ScalableVideoView:10e7b4da8b] C:\Users\kisaa\.gradle\caches\transforms-3\a6e0af1f228543e46db74b0e3777c55c\transformed\jetified-Android-ScalableVideoView-10e7b4da8b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.adityaxjha:Android-ScalableVideoView:10e7b4da8b] C:\Users\kisaa\.gradle\caches\transforms-3\a6e0af1f228543e46db74b0e3777c55c\transformed\jetified-Android-ScalableVideoView-10e7b4da8b\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\kisaa\.gradle\caches\transforms-3\437a31dd0a8a6ad222d3936552b22b9f\transformed\constraintlayout-2.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\kisaa\.gradle\caches\transforms-3\437a31dd0a8a6ad222d3936552b22b9f\transformed\constraintlayout-2.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.4.1] C:\Users\kisaa\.gradle\caches\transforms-3\396dec588c0fb1c71cca35a6a15bac01\transformed\appcompat-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.4.1] C:\Users\kisaa\.gradle\caches\transforms-3\396dec588c0fb1c71cca35a6a15bac01\transformed\appcompat-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\kisaa\.gradle\caches\transforms-3\d710af134cd433515360398fe872ebaf\transformed\sqlite-framework-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\kisaa\.gradle\caches\transforms-3\d710af134cd433515360398fe872ebaf\transformed\sqlite-framework-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] C:\Users\kisaa\.gradle\caches\transforms-3\391d399311e7f14e386cec011973aa16\transformed\jetified-appcompat-resources-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] C:\Users\kisaa\.gradle\caches\transforms-3\391d399311e7f14e386cec011973aa16\transformed\jetified-appcompat-resources-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.1.0] C:\Users\kisaa\.gradle\caches\transforms-3\d1f0ef530e5f9e4e5a46a616c2fcb74c\transformed\jetified-autofill-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.1.0] C:\Users\kisaa\.gradle\caches\transforms-3\d1f0ef530e5f9e4e5a46a616c2fcb74c\transformed\jetified-autofill-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-auth:20.3.0] C:\Users\kisaa\.gradle\caches\transforms-3\ef371ff7272ab2cfb60be6c344434d27\transformed\jetified-play-services-auth-20.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:20.3.0] C:\Users\kisaa\.gradle\caches\transforms-3\ef371ff7272ab2cfb60be6c344434d27\transformed\jetified-play-services-auth-20.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\kisaa\.gradle\caches\transforms-3\9f6b147e449c8b40452e8fb9f1ffdc92\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\kisaa\.gradle\caches\transforms-3\9f6b147e449c8b40452e8fb9f1ffdc92\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-messaging:23.1.2] C:\Users\kisaa\.gradle\caches\transforms-3\8f694150e7a5085cb100751755739636\transformed\jetified-firebase-messaging-23.1.2\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-messaging:23.1.2] C:\Users\kisaa\.gradle\caches\transforms-3\8f694150e7a5085cb100751755739636\transformed\jetified-firebase-messaging-23.1.2\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-database:20.1.0] C:\Users\kisaa\.gradle\caches\transforms-3\dd64722594074cfc9e220e25510cfc59\transformed\jetified-firebase-database-20.1.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-database:20.1.0] C:\Users\kisaa\.gradle\caches\transforms-3\dd64722594074cfc9e220e25510cfc59\transformed\jetified-firebase-database-20.1.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.1] C:\Users\kisaa\.gradle\caches\transforms-3\c2307f8e95b788579fd53e64a1156423\transformed\jetified-play-services-auth-api-phone-18.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.1] C:\Users\kisaa\.gradle\caches\transforms-3\c2307f8e95b788579fd53e64a1156423\transformed\jetified-play-services-auth-api-phone-18.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.4] C:\Users\kisaa\.gradle\caches\transforms-3\c7178cc0717e97c0c6cd6c5c54d5d07c\transformed\jetified-play-services-auth-base-18.0.4\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.4] C:\Users\kisaa\.gradle\caches\transforms-3\c7178cc0717e97c0c6cd6c5c54d5d07c\transformed\jetified-play-services-auth-base-18.0.4\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.1.0] C:\Users\kisaa\.gradle\caches\transforms-3\d12a56c7806234acc665868af6b1732b\transformed\jetified-firebase-appcheck-interop-16.1.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.1.0] C:\Users\kisaa\.gradle\caches\transforms-3\d12a56c7806234acc665868af6b1732b\transformed\jetified-firebase-appcheck-interop-16.1.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] C:\Users\kisaa\.gradle\caches\transforms-3\da7642f5d1e0067ea8d1082f05f384d2\transformed\jetified-firebase-database-collection-18.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] C:\Users\kisaa\.gradle\caches\transforms-3\da7642f5d1e0067ea8d1082f05f384d2\transformed\jetified-firebase-database-collection-18.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\kisaa\.gradle\caches\transforms-3\c105a8fc60e7c52289c27256f0a78f55\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\kisaa\.gradle\caches\transforms-3\c105a8fc60e7c52289c27256f0a78f55\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:18:5-43
+MERGED from [com.google.firebase:firebase-datatransport:18.1.7] C:\Users\kisaa\.gradle\caches\transforms-3\c75d906e998b5c9300a0ee5c1fa8e78b\transformed\jetified-firebase-datatransport-18.1.7\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-datatransport:18.1.7] C:\Users\kisaa\.gradle\caches\transforms-3\c75d906e998b5c9300a0ee5c1fa8e78b\transformed\jetified-firebase-datatransport-18.1.7\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-installations:17.1.3] C:\Users\kisaa\.gradle\caches\transforms-3\9ce64356a3a72e5dea874caecc074ced\transformed\jetified-firebase-installations-17.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-installations:17.1.3] C:\Users\kisaa\.gradle\caches\transforms-3\9ce64356a3a72e5dea874caecc074ced\transformed\jetified-firebase-installations-17.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.2] C:\Users\kisaa\.gradle\caches\transforms-3\5a22f99711b375dcb6987130cde8c4f0\transformed\jetified-firebase-auth-interop-19.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.2] C:\Users\kisaa\.gradle\caches\transforms-3\5a22f99711b375dcb6987130cde8c4f0\transformed\jetified-firebase-auth-interop-19.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:20.3.2] C:\Users\kisaa\.gradle\caches\transforms-3\e7f40a5548665cd2343f90f260d53e52\transformed\jetified-firebase-common-20.3.2\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-common:20.3.2] C:\Users\kisaa\.gradle\caches\transforms-3\e7f40a5548665cd2343f90f260d53e52\transformed\jetified-firebase-common-20.3.2\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\kisaa\.gradle\caches\transforms-3\4d016146591a7f9981b6bc22747469f9\transformed\jetified-play-services-stats-17.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\kisaa\.gradle\caches\transforms-3\4d016146591a7f9981b6bc22747469f9\transformed\jetified-play-services-stats-17.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\kisaa\.gradle\caches\transforms-3\b55686c0068771851e1f6f126e120661\transformed\jetified-firebase-measurement-connector-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\kisaa\.gradle\caches\transforms-3\b55686c0068771851e1f6f126e120661\transformed\jetified-firebase-measurement-connector-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] C:\Users\kisaa\.gradle\caches\transforms-3\8a313a69757af5870d5097472c6d3989\transformed\jetified-firebase-iid-interop-17.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] C:\Users\kisaa\.gradle\caches\transforms-3\8a313a69757af5870d5097472c6d3989\transformed\jetified-firebase-iid-interop-17.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] C:\Users\kisaa\.gradle\caches\transforms-3\685f76f81dbcef4282ce7b17447266dd\transformed\jetified-play-services-cloud-messaging-17.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] C:\Users\kisaa\.gradle\caches\transforms-3\685f76f81dbcef4282ce7b17447266dd\transformed\jetified-play-services-cloud-messaging-17.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-installations-interop:17.1.0] C:\Users\kisaa\.gradle\caches\transforms-3\2a690955d29ae171c3fac59414b655b2\transformed\jetified-firebase-installations-interop-17.1.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-installations-interop:17.1.0] C:\Users\kisaa\.gradle\caches\transforms-3\2a690955d29ae171c3fac59414b655b2\transformed\jetified-firebase-installations-interop-17.1.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\kisaa\.gradle\caches\transforms-3\7816bb6d9903cb97970ad464befb6c5b\transformed\jetified-play-services-tasks-18.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\kisaa\.gradle\caches\transforms-3\7816bb6d9903cb97970ad464befb6c5b\transformed\jetified-play-services-tasks-18.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\kisaa\.gradle\caches\transforms-3\482958b833a6b5638bd35f96d124bd0d\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\kisaa\.gradle\caches\transforms-3\482958b833a6b5638bd35f96d124bd0d\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\kisaa\.gradle\caches\transforms-3\c4104aff45f57dad40c0096d416155ca\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\kisaa\.gradle\caches\transforms-3\c4104aff45f57dad40c0096d416155ca\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\kisaa\.gradle\caches\transforms-3\de1dfeab75201b761e9aca57e528c2f9\transformed\jetified-activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\kisaa\.gradle\caches\transforms-3\de1dfeab75201b761e9aca57e528c2f9\transformed\jetified-activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\kisaa\.gradle\caches\transforms-3\fff14e8acc7f28985c96a655423e237b\transformed\jetified-emoji2-views-helper-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\kisaa\.gradle\caches\transforms-3\fff14e8acc7f28985c96a655423e237b\transformed\jetified-emoji2-views-helper-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\kisaa\.gradle\caches\transforms-3\c0505b4d2dae9371cb90a9a4a744c872\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\kisaa\.gradle\caches\transforms-3\c0505b4d2dae9371cb90a9a4a744c872\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\kisaa\.gradle\caches\transforms-3\ddc56529fe771f26487ef03da4a76d48\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\kisaa\.gradle\caches\transforms-3\ddc56529fe771f26487ef03da4a76d48\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\kisaa\.gradle\caches\transforms-3\6a5766b757dd679ea156b8323e46551c\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\kisaa\.gradle\caches\transforms-3\6a5766b757dd679ea156b8323e46551c\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.1.0] C:\Users\kisaa\.gradle\caches\transforms-3\947d24f0891bc1e83df55745d208ab15\transformed\jetified-tracing-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.1.0] C:\Users\kisaa\.gradle\caches\transforms-3\947d24f0891bc1e83df55745d208ab15\transformed\jetified-tracing-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:middleware:2.6.0] C:\Users\kisaa\.gradle\caches\transforms-3\6a9e44708079ba80354df2350b524315\transformed\jetified-middleware-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:middleware:2.6.0] C:\Users\kisaa\.gradle\caches\transforms-3\6a9e44708079ba80354df2350b524315\transformed\jetified-middleware-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.6.0] C:\Users\kisaa\.gradle\caches\transforms-3\5d405751913df0415f98d58ae72aa149\transformed\jetified-ui-common-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.6.0] C:\Users\kisaa\.gradle\caches\transforms-3\5d405751913df0415f98d58ae72aa149\transformed\jetified-ui-common-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.8] C:\Users\kisaa\.gradle\caches\transforms-3\6856a53d2ebdc629092e3ee0a0f3a4b8\transformed\jetified-transport-backend-cct-3.1.8\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.8] C:\Users\kisaa\.gradle\caches\transforms-3\6856a53d2ebdc629092e3ee0a0f3a4b8\transformed\jetified-transport-backend-cct-3.1.8\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.8] C:\Users\kisaa\.gradle\caches\transforms-3\7f51e78c2438ebda77a66cd231ac70a5\transformed\jetified-transport-runtime-3.1.8\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.8] C:\Users\kisaa\.gradle\caches\transforms-3\7f51e78c2438ebda77a66cd231ac70a5\transformed\jetified-transport-runtime-3.1.8\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-components:17.1.0] C:\Users\kisaa\.gradle\caches\transforms-3\08e19b127d4b63521889f4771abe3496\transformed\jetified-firebase-components-17.1.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-components:17.1.0] C:\Users\kisaa\.gradle\caches\transforms-3\08e19b127d4b63521889f4771abe3496\transformed\jetified-firebase-components-17.1.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.github.Dimezis:BlurView:version-2.0.3] C:\Users\kisaa\.gradle\caches\transforms-3\5902120df8ec6b2d4cca7485af2ffe2e\transformed\jetified-BlurView-version-2.0.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.Dimezis:BlurView:version-2.0.3] C:\Users\kisaa\.gradle\caches\transforms-3\5902120df8ec6b2d4cca7485af2ffe2e\transformed\jetified-BlurView-version-2.0.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.6.0] C:\Users\kisaa\.gradle\caches\transforms-3\83871347efc2b5385bec5004ec22d57b\transformed\jetified-core-ktx-1.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.6.0] C:\Users\kisaa\.gradle\caches\transforms-3\83871347efc2b5385bec5004ec22d57b\transformed\jetified-core-ktx-1.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] C:\Users\kisaa\.gradle\caches\transforms-3\68fc1f87640690fe38e57120755f881a\transformed\exifinterface-1.3.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] C:\Users\kisaa\.gradle\caches\transforms-3\68fc1f87640690fe38e57120755f881a\transformed\exifinterface-1.3.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\kisaa\.gradle\caches\transforms-3\f3f0072b9a62138002b692a9c760f813\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\kisaa\.gradle\caches\transforms-3\f3f0072b9a62138002b692a9c760f813\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.webkit:webkit:1.4.0] C:\Users\kisaa\.gradle\caches\transforms-3\8eed2f0b58b3efa0d899c9985ec4f8ed\transformed\webkit-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.webkit:webkit:1.4.0] C:\Users\kisaa\.gradle\caches\transforms-3\8eed2f0b58b3efa0d899c9985ec4f8ed\transformed\webkit-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\kisaa\.gradle\caches\transforms-3\b2ed5b3118677011c83d48d309789082\transformed\sqlite-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\kisaa\.gradle\caches\transforms-3\b2ed5b3118677011c83d48d309789082\transformed\sqlite-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\kisaa\.gradle\caches\transforms-3\dc1f7f31cacf2d8dfd7bd4fb26255a5d\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\kisaa\.gradle\caches\transforms-3\dc1f7f31cacf2d8dfd7bd4fb26255a5d\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\kisaa\.gradle\caches\transforms-3\2aa98a44431c3d10a78b52ba8c641a64\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\kisaa\.gradle\caches\transforms-3\2aa98a44431c3d10a78b52ba8c641a64\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\kisaa\.gradle\caches\transforms-3\32fe0804af39ef7cec4c058cca4c08c8\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\kisaa\.gradle\caches\transforms-3\32fe0804af39ef7cec4c058cca4c08c8\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\kisaa\.gradle\caches\transforms-3\ef3915189777e058c0394a2bf01dc9c4\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\kisaa\.gradle\caches\transforms-3\ef3915189777e058c0394a2bf01dc9c4\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\kisaa\.gradle\caches\transforms-3\4f76d324d820454ce6ef0049d8a82c78\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\kisaa\.gradle\caches\transforms-3\4f76d324d820454ce6ef0049d8a82c78\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\kisaa\.gradle\caches\transforms-3\42b44b56bd7d0e8b3c95431d4f63379b\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\kisaa\.gradle\caches\transforms-3\42b44b56bd7d0e8b3c95431d4f63379b\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\kisaa\.gradle\caches\transforms-3\310827c5e2a7639b355e36183bde2c9a\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\kisaa\.gradle\caches\transforms-3\310827c5e2a7639b355e36183bde2c9a\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\kisaa\.gradle\caches\transforms-3\73acc6c28ce5c896c39f17cdee3a0326\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\kisaa\.gradle\caches\transforms-3\73acc6c28ce5c896c39f17cdee3a0326\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\kisaa\.gradle\caches\transforms-3\e5bfcf14a7da1f05892ff817e0e02302\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\kisaa\.gradle\caches\transforms-3\e5bfcf14a7da1f05892ff817e0e02302\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\kisaa\.gradle\caches\transforms-3\6d474bb6eeec5035190233b4c8dfb721\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\kisaa\.gradle\caches\transforms-3\6d474bb6eeec5035190233b4c8dfb721\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] C:\Users\kisaa\.gradle\caches\transforms-3\a50900ea39f3d1afbc5c4bdfb2be2662\transformed\core-1.7.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] C:\Users\kisaa\.gradle\caches\transforms-3\a50900ea39f3d1afbc5c4bdfb2be2662\transformed\core-1.7.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\kisaa\.gradle\caches\transforms-3\1b0d7d4ae0542aba30f5c766d22dc5f1\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\kisaa\.gradle\caches\transforms-3\1b0d7d4ae0542aba30f5c766d22dc5f1\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\kisaa\.gradle\caches\transforms-3\c801d096386c4e952595bfb25c60b279\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\kisaa\.gradle\caches\transforms-3\c801d096386c4e952595bfb25c60b279\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\kisaa\.gradle\caches\transforms-3\e51feed8ceb3b331f8908fb72e1aeb09\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\kisaa\.gradle\caches\transforms-3\e51feed8ceb3b331f8908fb72e1aeb09\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\kisaa\.gradle\caches\transforms-3\d7fe7c35a2e94eff3e59f24a8e1ef05d\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\kisaa\.gradle\caches\transforms-3\d7fe7c35a2e94eff3e59f24a8e1ef05d\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\kisaa\.gradle\caches\transforms-3\de6e9fb39eccf7887c1b83c12df490a6\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\kisaa\.gradle\caches\transforms-3\de6e9fb39eccf7887c1b83c12df490a6\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\kisaa\.gradle\caches\transforms-3\bf5f32afd33b946529c82bec534367a5\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\kisaa\.gradle\caches\transforms-3\bf5f32afd33b946529c82bec534367a5\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\kisaa\.gradle\caches\transforms-3\3434e49b21f1b204f5cdad6699928c8b\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\kisaa\.gradle\caches\transforms-3\3434e49b21f1b204f5cdad6699928c8b\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\kisaa\.gradle\caches\transforms-3\d79dd70d9ce6eb1879f4e35d52d6a3f1\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\kisaa\.gradle\caches\transforms-3\d79dd70d9ce6eb1879f4e35d52d6a3f1\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\kisaa\.gradle\caches\transforms-3\f2572ad327503081df3e6c547094beb8\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\kisaa\.gradle\caches\transforms-3\f2572ad327503081df3e6c547094beb8\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] C:\Users\kisaa\.gradle\caches\transforms-3\a76818e58aec906da7746d7869caf83a\transformed\lifecycle-runtime-2.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] C:\Users\kisaa\.gradle\caches\transforms-3\a76818e58aec906da7746d7869caf83a\transformed\lifecycle-runtime-2.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\kisaa\.gradle\caches\transforms-3\83ac6d83c713df176907714df1483da0\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\kisaa\.gradle\caches\transforms-3\83ac6d83c713df176907714df1483da0\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] C:\Users\kisaa\.gradle\caches\transforms-3\0a32f86dea90b6d18017f77f32b53332\transformed\jetified-transport-api-3.0.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] C:\Users\kisaa\.gradle\caches\transforms-3\0a32f86dea90b6d18017f77f32b53332\transformed\jetified-transport-api-3.0.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] C:\Users\kisaa\.gradle\caches\transforms-3\dc47ecc435c7fd1c7efa27b35039334c\transformed\jetified-firebase-encoders-json-18.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] C:\Users\kisaa\.gradle\caches\transforms-3\dc47ecc435c7fd1c7efa27b35039334c\transformed\jetified-firebase-encoders-json-18.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\kisaa\.gradle\caches\transforms-3\87b1c4e79f0f6e82d0d2acef644ab722\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\kisaa\.gradle\caches\transforms-3\87b1c4e79f0f6e82d0d2acef644ab722\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\kisaa\.gradle\caches\transforms-3\7d2f06f666e1c912322861c84b832bed\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\kisaa\.gradle\caches\transforms-3\7d2f06f666e1c912322861c84b832bed\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\kisaa\.gradle\caches\transforms-3\49b877d73a71e25032a43e4ac12720a3\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\kisaa\.gradle\caches\transforms-3\49b877d73a71e25032a43e4ac12720a3\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:2.6.0] C:\Users\kisaa\.gradle\caches\transforms-3\9b3dd6e7547e67f18510116ac5bff5fd\transformed\jetified-fbcore-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.6.0] C:\Users\kisaa\.gradle\caches\transforms-3\9b3dd6e7547e67f18510116ac5bff5fd\transformed\jetified-fbcore-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\kisaa\.gradle\caches\transforms-3\1269912ffc3e682a81f5a15fe29b9d35\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\kisaa\.gradle\caches\transforms-3\1269912ffc3e682a81f5a15fe29b9d35\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+INJECTED from D:\Developer\MobileApps\USSIA\vendor\android\app\src\debug\AndroidManifest.xml
+INJECTED from D:\Developer\MobileApps\USSIA\vendor\android\app\src\debug\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Developer\MobileApps\USSIA\vendor\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Developer\MobileApps\USSIA\vendor\android\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Developer\MobileApps\USSIA\vendor\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Developer\MobileApps\USSIA\vendor\android\app\src\debug\AndroidManifest.xml
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from D:\Developer\MobileApps\USSIA\vendor\android\app\src\debug\AndroidManifest.xml:11:9-111
+	android:exported
+		ADDED from D:\Developer\MobileApps\USSIA\vendor\android\app\src\debug\AndroidManifest.xml:11:84-108
+	android:name
+		ADDED from D:\Developer\MobileApps\USSIA\vendor\android\app\src\debug\AndroidManifest.xml:11:19-83
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [com.facebook.flipper:flipper:0.125.0] C:\Users\kisaa\.gradle\caches\transforms-3\4969da6f46f6dd6f1e85846c6edf401c\transformed\jetified-flipper-0.125.0\AndroidManifest.xml:16:5-76
+	android:name
+		ADDED from [com.facebook.flipper:flipper:0.125.0] C:\Users\kisaa\.gradle\caches\transforms-3\4969da6f46f6dd6f1e85846c6edf401c\transformed\jetified-flipper-0.125.0\AndroidManifest.xml:16:22-73
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [:react-native-firebase_database] D:\Developer\MobileApps\USSIA\vendor\node_modules\@react-native-firebase\database\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:10:5-68
+MERGED from [:react-native-firebase_messaging] D:\Developer\MobileApps\USSIA\vendor\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:10:5-68
+MERGED from [:react-native-firebase_messaging] D:\Developer\MobileApps\USSIA\vendor\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:10:5-68
+MERGED from [com.google.firebase:firebase-messaging:23.1.2] C:\Users\kisaa\.gradle\caches\transforms-3\8f694150e7a5085cb100751755739636\transformed\jetified-firebase-messaging-23.1.2\AndroidManifest.xml:26:5-68
+MERGED from [com.google.firebase:firebase-messaging:23.1.2] C:\Users\kisaa\.gradle\caches\transforms-3\8f694150e7a5085cb100751755739636\transformed\jetified-firebase-messaging-23.1.2\AndroidManifest.xml:26:5-68
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] C:\Users\kisaa\.gradle\caches\transforms-3\685f76f81dbcef4282ce7b17447266dd\transformed\jetified-play-services-cloud-messaging-17.0.1\AndroidManifest.xml:9:5-68
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] C:\Users\kisaa\.gradle\caches\transforms-3\685f76f81dbcef4282ce7b17447266dd\transformed\jetified-play-services-cloud-messaging-17.0.1\AndroidManifest.xml:9:5-68
+	android:name
+		ADDED from [:react-native-firebase_database] D:\Developer\MobileApps\USSIA\vendor\node_modules\@react-native-firebase\database\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:10:22-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:react-native-firebase_database] D:\Developer\MobileApps\USSIA\vendor\node_modules\@react-native-firebase\database\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:11:5-79
+MERGED from [:react-native-firebase_messaging] D:\Developer\MobileApps\USSIA\vendor\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:11:5-79
+MERGED from [:react-native-firebase_messaging] D:\Developer\MobileApps\USSIA\vendor\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:11:5-79
+MERGED from [com.google.firebase:firebase-messaging:23.1.2] C:\Users\kisaa\.gradle\caches\transforms-3\8f694150e7a5085cb100751755739636\transformed\jetified-firebase-messaging-23.1.2\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-messaging:23.1.2] C:\Users\kisaa\.gradle\caches\transforms-3\8f694150e7a5085cb100751755739636\transformed\jetified-firebase-messaging-23.1.2\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-database:20.1.0] C:\Users\kisaa\.gradle\caches\transforms-3\dd64722594074cfc9e220e25510cfc59\transformed\jetified-firebase-database-20.1.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-database:20.1.0] C:\Users\kisaa\.gradle\caches\transforms-3\dd64722594074cfc9e220e25510cfc59\transformed\jetified-firebase-database-20.1.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-installations:17.1.3] C:\Users\kisaa\.gradle\caches\transforms-3\9ce64356a3a72e5dea874caecc074ced\transformed\jetified-firebase-installations-17.1.3\AndroidManifest.xml:9:5-79
+MERGED from [com.google.firebase:firebase-installations:17.1.3] C:\Users\kisaa\.gradle\caches\transforms-3\9ce64356a3a72e5dea874caecc074ced\transformed\jetified-firebase-installations-17.1.3\AndroidManifest.xml:9:5-79
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] C:\Users\kisaa\.gradle\caches\transforms-3\685f76f81dbcef4282ce7b17447266dd\transformed\jetified-play-services-cloud-messaging-17.0.1\AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] C:\Users\kisaa\.gradle\caches\transforms-3\685f76f81dbcef4282ce7b17447266dd\transformed\jetified-play-services-cloud-messaging-17.0.1\AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.8] C:\Users\kisaa\.gradle\caches\transforms-3\6856a53d2ebdc629092e3ee0a0f3a4b8\transformed\jetified-transport-backend-cct-3.1.8\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.8] C:\Users\kisaa\.gradle\caches\transforms-3\6856a53d2ebdc629092e3ee0a0f3a4b8\transformed\jetified-transport-backend-cct-3.1.8\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.8] C:\Users\kisaa\.gradle\caches\transforms-3\7f51e78c2438ebda77a66cd231ac70a5\transformed\jetified-transport-runtime-3.1.8\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.8] C:\Users\kisaa\.gradle\caches\transforms-3\7f51e78c2438ebda77a66cd231ac70a5\transformed\jetified-transport-runtime-3.1.8\AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [:react-native-firebase_database] D:\Developer\MobileApps\USSIA\vendor\node_modules\@react-native-firebase\database\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:11:22-76
+service#io.invertase.firebase.messaging.ReactNativeFirebaseMessagingHeadlessService
+ADDED from [:react-native-firebase_messaging] D:\Developer\MobileApps\USSIA\vendor\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:14:9-16:40
+	android:exported
+		ADDED from [:react-native-firebase_messaging] D:\Developer\MobileApps\USSIA\vendor\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:16:13-37
+	android:name
+		ADDED from [:react-native-firebase_messaging] D:\Developer\MobileApps\USSIA\vendor\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:15:13-103
+service#io.invertase.firebase.messaging.ReactNativeFirebaseMessagingService
+ADDED from [:react-native-firebase_messaging] D:\Developer\MobileApps\USSIA\vendor\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:17:9-23:19
+	android:exported
+		ADDED from [:react-native-firebase_messaging] D:\Developer\MobileApps\USSIA\vendor\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:19:13-37
+	android:name
+		ADDED from [:react-native-firebase_messaging] D:\Developer\MobileApps\USSIA\vendor\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:18:13-95
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from [:react-native-firebase_messaging] D:\Developer\MobileApps\USSIA\vendor\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:20:13-22:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [:react-native-firebase_messaging] D:\Developer\MobileApps\USSIA\vendor\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:21:17-78
+	android:name
+		ADDED from [:react-native-firebase_messaging] D:\Developer\MobileApps\USSIA\vendor\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:21:25-75
+receiver#io.invertase.firebase.messaging.ReactNativeFirebaseMessagingReceiver
+ADDED from [:react-native-firebase_messaging] D:\Developer\MobileApps\USSIA\vendor\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:25:9-32:20
+	android:exported
+		ADDED from [:react-native-firebase_messaging] D:\Developer\MobileApps\USSIA\vendor\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:27:13-36
+	android:permission
+		ADDED from [:react-native-firebase_messaging] D:\Developer\MobileApps\USSIA\vendor\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:28:13-73
+	android:name
+		ADDED from [:react-native-firebase_messaging] D:\Developer\MobileApps\USSIA\vendor\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:26:13-96
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [:react-native-firebase_messaging] D:\Developer\MobileApps\USSIA\vendor\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:29:13-31:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [:react-native-firebase_messaging] D:\Developer\MobileApps\USSIA\vendor\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:30:17-81
+	android:name
+		ADDED from [:react-native-firebase_messaging] D:\Developer\MobileApps\USSIA\vendor\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:30:25-78
+meta-data#firebase_messaging_auto_init_enabled
+ADDED from [:react-native-firebase_messaging] D:\Developer\MobileApps\USSIA\vendor\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:34:9-36:36
+	android:value
+		ADDED from [:react-native-firebase_messaging] D:\Developer\MobileApps\USSIA\vendor\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:36:13-33
+	android:name
+		ADDED from [:react-native-firebase_messaging] D:\Developer\MobileApps\USSIA\vendor\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:35:13-64
+meta-data#com.google.firebase.messaging.default_notification_channel_id
+ADDED from [:react-native-firebase_messaging] D:\Developer\MobileApps\USSIA\vendor\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:37:9-39:32
+	android:value
+		ADDED from [:react-native-firebase_messaging] D:\Developer\MobileApps\USSIA\vendor\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:39:13-29
+	android:name
+		ADDED from [:react-native-firebase_messaging] D:\Developer\MobileApps\USSIA\vendor\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:38:13-89
+meta-data#com.google.firebase.messaging.default_notification_color
+ADDED from [:react-native-firebase_messaging] D:\Developer\MobileApps\USSIA\vendor\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:40:9-42:47
+	android:resource
+		ADDED from [:react-native-firebase_messaging] D:\Developer\MobileApps\USSIA\vendor\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:42:13-44
+	android:name
+		ADDED from [:react-native-firebase_messaging] D:\Developer\MobileApps\USSIA\vendor\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:41:13-84
+meta-data#app_data_collection_default_enabled
+ADDED from [:react-native-firebase_app] D:\Developer\MobileApps\USSIA\vendor\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:11:9-13:36
+	android:value
+		ADDED from [:react-native-firebase_app] D:\Developer\MobileApps\USSIA\vendor\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:13:13-33
+	android:name
+		ADDED from [:react-native-firebase_app] D:\Developer\MobileApps\USSIA\vendor\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:12:13-63
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [:react-native-firebase_app] D:\Developer\MobileApps\USSIA\vendor\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:15:9-23:19
+MERGED from [com.google.firebase:firebase-messaging:23.1.2] C:\Users\kisaa\.gradle\caches\transforms-3\8f694150e7a5085cb100751755739636\transformed\jetified-firebase-messaging-23.1.2\AndroidManifest.xml:52:9-58:19
+MERGED from [com.google.firebase:firebase-messaging:23.1.2] C:\Users\kisaa\.gradle\caches\transforms-3\8f694150e7a5085cb100751755739636\transformed\jetified-firebase-messaging-23.1.2\AndroidManifest.xml:52:9-58:19
+MERGED from [com.google.firebase:firebase-database:20.1.0] C:\Users\kisaa\.gradle\caches\transforms-3\dd64722594074cfc9e220e25510cfc59\transformed\jetified-firebase-database-20.1.0\AndroidManifest.xml:28:9-34:19
+MERGED from [com.google.firebase:firebase-database:20.1.0] C:\Users\kisaa\.gradle\caches\transforms-3\dd64722594074cfc9e220e25510cfc59\transformed\jetified-firebase-database-20.1.0\AndroidManifest.xml:28:9-34:19
+MERGED from [com.google.firebase:firebase-datatransport:18.1.7] C:\Users\kisaa\.gradle\caches\transforms-3\c75d906e998b5c9300a0ee5c1fa8e78b\transformed\jetified-firebase-datatransport-18.1.7\AndroidManifest.xml:24:9-30:19
+MERGED from [com.google.firebase:firebase-datatransport:18.1.7] C:\Users\kisaa\.gradle\caches\transforms-3\c75d906e998b5c9300a0ee5c1fa8e78b\transformed\jetified-firebase-datatransport-18.1.7\AndroidManifest.xml:24:9-30:19
+MERGED from [com.google.firebase:firebase-installations:17.1.3] C:\Users\kisaa\.gradle\caches\transforms-3\9ce64356a3a72e5dea874caecc074ced\transformed\jetified-firebase-installations-17.1.3\AndroidManifest.xml:14:9-20:19
+MERGED from [com.google.firebase:firebase-installations:17.1.3] C:\Users\kisaa\.gradle\caches\transforms-3\9ce64356a3a72e5dea874caecc074ced\transformed\jetified-firebase-installations-17.1.3\AndroidManifest.xml:14:9-20:19
+MERGED from [com.google.firebase:firebase-common:20.3.2] C:\Users\kisaa\.gradle\caches\transforms-3\e7f40a5548665cd2343f90f260d53e52\transformed\jetified-firebase-common-20.3.2\AndroidManifest.xml:32:9-36:35
+MERGED from [com.google.firebase:firebase-common:20.3.2] C:\Users\kisaa\.gradle\caches\transforms-3\e7f40a5548665cd2343f90f260d53e52\transformed\jetified-firebase-common-20.3.2\AndroidManifest.xml:32:9-36:35
+	android:exported
+		ADDED from [:react-native-firebase_app] D:\Developer\MobileApps\USSIA\vendor\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:18:13-37
+	tools:targetApi
+		ADDED from [:react-native-firebase_app] D:\Developer\MobileApps\USSIA\vendor\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:19:13-32
+	android:directBootAware
+		ADDED from [:react-native-firebase_app] D:\Developer\MobileApps\USSIA\vendor\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:17:13-43
+	android:name
+		ADDED from [:react-native-firebase_app] D:\Developer\MobileApps\USSIA\vendor\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:16:13-84
+meta-data#com.google.firebase.components:io.invertase.firebase.app.ReactNativeFirebaseAppRegistrar
+ADDED from [:react-native-firebase_app] D:\Developer\MobileApps\USSIA\vendor\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:20:13-22:85
+	android:value
+		ADDED from [:react-native-firebase_app] D:\Developer\MobileApps\USSIA\vendor\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:22:17-82
+	android:name
+		ADDED from [:react-native-firebase_app] D:\Developer\MobileApps\USSIA\vendor\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:21:17-120
+provider#io.invertase.firebase.app.ReactNativeFirebaseAppInitProvider
+ADDED from [:react-native-firebase_app] D:\Developer\MobileApps\USSIA\vendor\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:25:9-29:38
+	android:authorities
+		ADDED from [:react-native-firebase_app] D:\Developer\MobileApps\USSIA\vendor\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:27:13-86
+	android:exported
+		ADDED from [:react-native-firebase_app] D:\Developer\MobileApps\USSIA\vendor\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:28:13-37
+	android:initOrder
+		ADDED from [:react-native-firebase_app] D:\Developer\MobileApps\USSIA\vendor\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:29:13-35
+	android:name
+		ADDED from [:react-native-firebase_app] D:\Developer\MobileApps\USSIA\vendor\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:26:13-88
+queries
+ADDED from [:react-native-image-crop-picker] D:\Developer\MobileApps\USSIA\vendor\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-13:15
+intent#action:name:android.media.action.IMAGE_CAPTURE
+ADDED from [:react-native-image-crop-picker] D:\Developer\MobileApps\USSIA\vendor\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-12:18
+action#android.media.action.IMAGE_CAPTURE
+ADDED from [:react-native-image-crop-picker] D:\Developer\MobileApps\USSIA\vendor\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-73
+	android:name
+		ADDED from [:react-native-image-crop-picker] D:\Developer\MobileApps\USSIA\vendor\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:11:21-70
+provider#com.reactnative.ivpusic.imagepicker.IvpusicImagePickerFileProvider
+ADDED from [:react-native-image-crop-picker] D:\Developer\MobileApps\USSIA\vendor\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:18:9-26:20
+	android:grantUriPermissions
+		ADDED from [:react-native-image-crop-picker] D:\Developer\MobileApps\USSIA\vendor\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:22:13-47
+	android:authorities
+		ADDED from [:react-native-image-crop-picker] D:\Developer\MobileApps\USSIA\vendor\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:20:13-60
+	android:exported
+		ADDED from [:react-native-image-crop-picker] D:\Developer\MobileApps\USSIA\vendor\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:21:13-37
+	android:name
+		ADDED from [:react-native-image-crop-picker] D:\Developer\MobileApps\USSIA\vendor\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:19:13-94
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:react-native-image-crop-picker] D:\Developer\MobileApps\USSIA\vendor\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:23:13-25:78
+	android:resource
+		ADDED from [:react-native-image-crop-picker] D:\Developer\MobileApps\USSIA\vendor\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:25:17-75
+	android:name
+		ADDED from [:react-native-image-crop-picker] D:\Developer\MobileApps\USSIA\vendor\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:24:17-67
+activity#com.yalantis.ucrop.UCropActivity
+ADDED from [:react-native-image-crop-picker] D:\Developer\MobileApps\USSIA\vendor\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:28:9-30:72
+	android:theme
+		ADDED from [:react-native-image-crop-picker] D:\Developer\MobileApps\USSIA\vendor\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:30:13-69
+	android:name
+		ADDED from [:react-native-image-crop-picker] D:\Developer\MobileApps\USSIA\vendor\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:29:13-60
+provider#com.imagepicker.ImagePickerProvider
+ADDED from [:react-native-image-picker] D:\Developer\MobileApps\USSIA\vendor\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-18:20
+	android:grantUriPermissions
+		ADDED from [:react-native-image-picker] D:\Developer\MobileApps\USSIA\vendor\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:14:13-47
+	android:authorities
+		ADDED from [:react-native-image-picker] D:\Developer\MobileApps\USSIA\vendor\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:12:13-71
+	android:exported
+		ADDED from [:react-native-image-picker] D:\Developer\MobileApps\USSIA\vendor\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:13:13-37
+	android:name
+		ADDED from [:react-native-image-picker] D:\Developer\MobileApps\USSIA\vendor\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-63
+provider#com.reactnativecommunity.webview.RNCWebViewFileProvider
+ADDED from [:react-native-webview] D:\Developer\MobileApps\USSIA\vendor\node_modules\react-native-webview\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-18:20
+	android:grantUriPermissions
+		ADDED from [:react-native-webview] D:\Developer\MobileApps\USSIA\vendor\node_modules\react-native-webview\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:14:13-47
+	android:authorities
+		ADDED from [:react-native-webview] D:\Developer\MobileApps\USSIA\vendor\node_modules\react-native-webview\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:12:13-64
+	android:exported
+		ADDED from [:react-native-webview] D:\Developer\MobileApps\USSIA\vendor\node_modules\react-native-webview\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:13:13-37
+	android:name
+		ADDED from [:react-native-webview] D:\Developer\MobileApps\USSIA\vendor\node_modules\react-native-webview\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-83
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:20.3.0] C:\Users\kisaa\.gradle\caches\transforms-3\ef371ff7272ab2cfb60be6c344434d27\transformed\jetified-play-services-auth-20.3.0\AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:20.3.0] C:\Users\kisaa\.gradle\caches\transforms-3\ef371ff7272ab2cfb60be6c344434d27\transformed\jetified-play-services-auth-20.3.0\AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:20.3.0] C:\Users\kisaa\.gradle\caches\transforms-3\ef371ff7272ab2cfb60be6c344434d27\transformed\jetified-play-services-auth-20.3.0\AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:20.3.0] C:\Users\kisaa\.gradle\caches\transforms-3\ef371ff7272ab2cfb60be6c344434d27\transformed\jetified-play-services-auth-20.3.0\AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:20.3.0] C:\Users\kisaa\.gradle\caches\transforms-3\ef371ff7272ab2cfb60be6c344434d27\transformed\jetified-play-services-auth-20.3.0\AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:20.3.0] C:\Users\kisaa\.gradle\caches\transforms-3\ef371ff7272ab2cfb60be6c344434d27\transformed\jetified-play-services-auth-20.3.0\AndroidManifest.xml:33:9-37:51
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:20.3.0] C:\Users\kisaa\.gradle\caches\transforms-3\ef371ff7272ab2cfb60be6c344434d27\transformed\jetified-play-services-auth-20.3.0\AndroidManifest.xml:35:13-36
+	android:visibleToInstantApps
+		ADDED from [com.google.android.gms:play-services-auth:20.3.0] C:\Users\kisaa\.gradle\caches\transforms-3\ef371ff7272ab2cfb60be6c344434d27\transformed\jetified-play-services-auth-20.3.0\AndroidManifest.xml:37:13-48
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:20.3.0] C:\Users\kisaa\.gradle\caches\transforms-3\ef371ff7272ab2cfb60be6c344434d27\transformed\jetified-play-services-auth-20.3.0\AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:20.3.0] C:\Users\kisaa\.gradle\caches\transforms-3\ef371ff7272ab2cfb60be6c344434d27\transformed\jetified-play-services-auth-20.3.0\AndroidManifest.xml:34:13-89
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-messaging:23.1.2] C:\Users\kisaa\.gradle\caches\transforms-3\8f694150e7a5085cb100751755739636\transformed\jetified-firebase-messaging-23.1.2\AndroidManifest.xml:28:5-82
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] C:\Users\kisaa\.gradle\caches\transforms-3\685f76f81dbcef4282ce7b17447266dd\transformed\jetified-play-services-cloud-messaging-17.0.1\AndroidManifest.xml:11:5-82
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] C:\Users\kisaa\.gradle\caches\transforms-3\685f76f81dbcef4282ce7b17447266dd\transformed\jetified-play-services-cloud-messaging-17.0.1\AndroidManifest.xml:11:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.1.2] C:\Users\kisaa\.gradle\caches\transforms-3\8f694150e7a5085cb100751755739636\transformed\jetified-firebase-messaging-23.1.2\AndroidManifest.xml:28:22-79
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-messaging:23.1.2] C:\Users\kisaa\.gradle\caches\transforms-3\8f694150e7a5085cb100751755739636\transformed\jetified-firebase-messaging-23.1.2\AndroidManifest.xml:31:9-38:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:23.1.2] C:\Users\kisaa\.gradle\caches\transforms-3\8f694150e7a5085cb100751755739636\transformed\jetified-firebase-messaging-23.1.2\AndroidManifest.xml:33:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-messaging:23.1.2] C:\Users\kisaa\.gradle\caches\transforms-3\8f694150e7a5085cb100751755739636\transformed\jetified-firebase-messaging-23.1.2\AndroidManifest.xml:34:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.1.2] C:\Users\kisaa\.gradle\caches\transforms-3\8f694150e7a5085cb100751755739636\transformed\jetified-firebase-messaging-23.1.2\AndroidManifest.xml:32:13-78
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:23.1.2] C:\Users\kisaa\.gradle\caches\transforms-3\8f694150e7a5085cb100751755739636\transformed\jetified-firebase-messaging-23.1.2\AndroidManifest.xml:44:9-51:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:23.1.2] C:\Users\kisaa\.gradle\caches\transforms-3\8f694150e7a5085cb100751755739636\transformed\jetified-firebase-messaging-23.1.2\AndroidManifest.xml:47:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-messaging:23.1.2] C:\Users\kisaa\.gradle\caches\transforms-3\8f694150e7a5085cb100751755739636\transformed\jetified-firebase-messaging-23.1.2\AndroidManifest.xml:46:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.1.2] C:\Users\kisaa\.gradle\caches\transforms-3\8f694150e7a5085cb100751755739636\transformed\jetified-firebase-messaging-23.1.2\AndroidManifest.xml:45:13-82
+meta-data#com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar
+ADDED from [com.google.firebase:firebase-messaging:23.1.2] C:\Users\kisaa\.gradle\caches\transforms-3\8f694150e7a5085cb100751755739636\transformed\jetified-firebase-messaging-23.1.2\AndroidManifest.xml:55:13-57:85
+	android:value
+		ADDED from [com.google.firebase:firebase-messaging:23.1.2] C:\Users\kisaa\.gradle\caches\transforms-3\8f694150e7a5085cb100751755739636\transformed\jetified-firebase-messaging-23.1.2\AndroidManifest.xml:57:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.1.2] C:\Users\kisaa\.gradle\caches\transforms-3\8f694150e7a5085cb100751755739636\transformed\jetified-firebase-messaging-23.1.2\AndroidManifest.xml:56:17-119
+meta-data#com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar
+ADDED from [com.google.firebase:firebase-database:20.1.0] C:\Users\kisaa\.gradle\caches\transforms-3\dd64722594074cfc9e220e25510cfc59\transformed\jetified-firebase-database-20.1.0\AndroidManifest.xml:31:13-33:85
+	android:value
+		ADDED from [com.google.firebase:firebase-database:20.1.0] C:\Users\kisaa\.gradle\caches\transforms-3\dd64722594074cfc9e220e25510cfc59\transformed\jetified-firebase-database-20.1.0\AndroidManifest.xml:33:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-database:20.1.0] C:\Users\kisaa\.gradle\caches\transforms-3\dd64722594074cfc9e220e25510cfc59\transformed\jetified-firebase-database-20.1.0\AndroidManifest.xml:32:17-109
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\kisaa\.gradle\caches\transforms-3\c105a8fc60e7c52289c27256f0a78f55\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\kisaa\.gradle\caches\transforms-3\c105a8fc60e7c52289c27256f0a78f55\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\kisaa\.gradle\caches\transforms-3\c105a8fc60e7c52289c27256f0a78f55\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\kisaa\.gradle\caches\transforms-3\c105a8fc60e7c52289c27256f0a78f55\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:19-85
+meta-data#com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar
+ADDED from [com.google.firebase:firebase-datatransport:18.1.7] C:\Users\kisaa\.gradle\caches\transforms-3\c75d906e998b5c9300a0ee5c1fa8e78b\transformed\jetified-firebase-datatransport-18.1.7\AndroidManifest.xml:27:13-29:85
+	android:value
+		ADDED from [com.google.firebase:firebase-datatransport:18.1.7] C:\Users\kisaa\.gradle\caches\transforms-3\c75d906e998b5c9300a0ee5c1fa8e78b\transformed\jetified-firebase-datatransport-18.1.7\AndroidManifest.xml:29:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-datatransport:18.1.7] C:\Users\kisaa\.gradle\caches\transforms-3\c75d906e998b5c9300a0ee5c1fa8e78b\transformed\jetified-firebase-datatransport-18.1.7\AndroidManifest.xml:28:17-115
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar
+ADDED from [com.google.firebase:firebase-installations:17.1.3] C:\Users\kisaa\.gradle\caches\transforms-3\9ce64356a3a72e5dea874caecc074ced\transformed\jetified-firebase-installations-17.1.3\AndroidManifest.xml:17:13-19:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:17.1.3] C:\Users\kisaa\.gradle\caches\transforms-3\9ce64356a3a72e5dea874caecc074ced\transformed\jetified-firebase-installations-17.1.3\AndroidManifest.xml:19:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:17.1.3] C:\Users\kisaa\.gradle\caches\transforms-3\9ce64356a3a72e5dea874caecc074ced\transformed\jetified-firebase-installations-17.1.3\AndroidManifest.xml:18:17-127
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:20.3.2] C:\Users\kisaa\.gradle\caches\transforms-3\e7f40a5548665cd2343f90f260d53e52\transformed\jetified-firebase-common-20.3.2\AndroidManifest.xml:25:9-30:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:20.3.2] C:\Users\kisaa\.gradle\caches\transforms-3\e7f40a5548665cd2343f90f260d53e52\transformed\jetified-firebase-common-20.3.2\AndroidManifest.xml:27:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:20.3.2] C:\Users\kisaa\.gradle\caches\transforms-3\e7f40a5548665cd2343f90f260d53e52\transformed\jetified-firebase-common-20.3.2\AndroidManifest.xml:29:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.3.2] C:\Users\kisaa\.gradle\caches\transforms-3\e7f40a5548665cd2343f90f260d53e52\transformed\jetified-firebase-common-20.3.2\AndroidManifest.xml:28:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:20.3.2] C:\Users\kisaa\.gradle\caches\transforms-3\e7f40a5548665cd2343f90f260d53e52\transformed\jetified-firebase-common-20.3.2\AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:20.3.2] C:\Users\kisaa\.gradle\caches\transforms-3\e7f40a5548665cd2343f90f260d53e52\transformed\jetified-firebase-common-20.3.2\AndroidManifest.xml:26:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\kisaa\.gradle\caches\transforms-3\482958b833a6b5638bd35f96d124bd0d\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\kisaa\.gradle\caches\transforms-3\482958b833a6b5638bd35f96d124bd0d\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\kisaa\.gradle\caches\transforms-3\482958b833a6b5638bd35f96d124bd0d\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:22:13-58
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\kisaa\.gradle\caches\transforms-3\c0505b4d2dae9371cb90a9a4a744c872\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\kisaa\.gradle\caches\transforms-3\ddc56529fe771f26487ef03da4a76d48\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\kisaa\.gradle\caches\transforms-3\ddc56529fe771f26487ef03da4a76d48\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\kisaa\.gradle\caches\transforms-3\6a5766b757dd679ea156b8323e46551c\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\kisaa\.gradle\caches\transforms-3\6a5766b757dd679ea156b8323e46551c\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\kisaa\.gradle\caches\transforms-3\c0505b4d2dae9371cb90a9a4a744c872\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:30:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\kisaa\.gradle\caches\transforms-3\c0505b4d2dae9371cb90a9a4a744c872\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:28:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\kisaa\.gradle\caches\transforms-3\c0505b4d2dae9371cb90a9a4a744c872\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\kisaa\.gradle\caches\transforms-3\c0505b4d2dae9371cb90a9a4a744c872\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:27:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\kisaa\.gradle\caches\transforms-3\c0505b4d2dae9371cb90a9a4a744c872\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\kisaa\.gradle\caches\transforms-3\c0505b4d2dae9371cb90a9a4a744c872\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\kisaa\.gradle\caches\transforms-3\c0505b4d2dae9371cb90a9a4a744c872\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:32:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\kisaa\.gradle\caches\transforms-3\ddc56529fe771f26487ef03da4a76d48\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\kisaa\.gradle\caches\transforms-3\ddc56529fe771f26487ef03da4a76d48\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\kisaa\.gradle\caches\transforms-3\ddc56529fe771f26487ef03da4a76d48\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+service#com.google.android.datatransport.runtime.backends.TransportBackendDiscovery
+ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.8] C:\Users\kisaa\.gradle\caches\transforms-3\6856a53d2ebdc629092e3ee0a0f3a4b8\transformed\jetified-transport-backend-cct-3.1.8\AndroidManifest.xml:28:9-34:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.8] C:\Users\kisaa\.gradle\caches\transforms-3\7f51e78c2438ebda77a66cd231ac70a5\transformed\jetified-transport-runtime-3.1.8\AndroidManifest.xml:36:9-38:40
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.8] C:\Users\kisaa\.gradle\caches\transforms-3\7f51e78c2438ebda77a66cd231ac70a5\transformed\jetified-transport-runtime-3.1.8\AndroidManifest.xml:36:9-38:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.8] C:\Users\kisaa\.gradle\caches\transforms-3\6856a53d2ebdc629092e3ee0a0f3a4b8\transformed\jetified-transport-backend-cct-3.1.8\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.8] C:\Users\kisaa\.gradle\caches\transforms-3\6856a53d2ebdc629092e3ee0a0f3a4b8\transformed\jetified-transport-backend-cct-3.1.8\AndroidManifest.xml:29:13-103
+meta-data#backend:com.google.android.datatransport.cct.CctBackendFactory
+ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.8] C:\Users\kisaa\.gradle\caches\transforms-3\6856a53d2ebdc629092e3ee0a0f3a4b8\transformed\jetified-transport-backend-cct-3.1.8\AndroidManifest.xml:31:13-33:39
+	android:value
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.8] C:\Users\kisaa\.gradle\caches\transforms-3\6856a53d2ebdc629092e3ee0a0f3a4b8\transformed\jetified-transport-backend-cct-3.1.8\AndroidManifest.xml:33:17-36
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.8] C:\Users\kisaa\.gradle\caches\transforms-3\6856a53d2ebdc629092e3ee0a0f3a4b8\transformed\jetified-transport-backend-cct-3.1.8\AndroidManifest.xml:32:17-94
+service#com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService
+ADDED from [com.google.android.datatransport:transport-runtime:3.1.8] C:\Users\kisaa\.gradle\caches\transforms-3\7f51e78c2438ebda77a66cd231ac70a5\transformed\jetified-transport-runtime-3.1.8\AndroidManifest.xml:26:9-30:19
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.8] C:\Users\kisaa\.gradle\caches\transforms-3\7f51e78c2438ebda77a66cd231ac70a5\transformed\jetified-transport-runtime-3.1.8\AndroidManifest.xml:28:13-37
+	android:permission
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.8] C:\Users\kisaa\.gradle\caches\transforms-3\7f51e78c2438ebda77a66cd231ac70a5\transformed\jetified-transport-runtime-3.1.8\AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.8] C:\Users\kisaa\.gradle\caches\transforms-3\7f51e78c2438ebda77a66cd231ac70a5\transformed\jetified-transport-runtime-3.1.8\AndroidManifest.xml:27:13-117
+receiver#com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver
+ADDED from [com.google.android.datatransport:transport-runtime:3.1.8] C:\Users\kisaa\.gradle\caches\transforms-3\7f51e78c2438ebda77a66cd231ac70a5\transformed\jetified-transport-runtime-3.1.8\AndroidManifest.xml:32:9-34:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.8] C:\Users\kisaa\.gradle\caches\transforms-3\7f51e78c2438ebda77a66cd231ac70a5\transformed\jetified-transport-runtime-3.1.8\AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.8] C:\Users\kisaa\.gradle\caches\transforms-3\7f51e78c2438ebda77a66cd231ac70a5\transformed\jetified-transport-runtime-3.1.8\AndroidManifest.xml:33:13-132

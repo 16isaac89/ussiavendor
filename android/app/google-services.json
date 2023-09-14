@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "252230979522",
+    "project_id": "onlinesokoni-242216",
+    "storage_bucket": "onlinesokoni-242216.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252230979522:android:889e4145753b729f1c505b",
+        "android_client_info": {
+          "package_name": "com.ussia.vendor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "252230979522-c4gppgtbhn3a8piadr2c62ha5a434k6t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBAMWjh35KpSruDaHbgNCZQKSaDw7E6jk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "252230979522-c4gppgtbhn3a8piadr2c62ha5a434k6t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

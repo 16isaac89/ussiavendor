@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">252230979522-c4gppgtbhn3a8piadr2c62ha5a434k6t.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">252230979522</string>
+    <string name="google_api_key" translatable="false">AIzaSyDBAMWjh35KpSruDaHbgNCZQKSaDw7E6jk</string>
+    <string name="google_app_id" translatable="false">1:252230979522:android:889e4145753b729f1c505b</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDBAMWjh35KpSruDaHbgNCZQKSaDw7E6jk</string>
+    <string name="google_storage_bucket" translatable="false">onlinesokoni-242216.appspot.com</string>
+    <string name="project_id" translatable="false">onlinesokoni-242216</string>
+</resources>
